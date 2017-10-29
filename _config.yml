@@ -22,7 +22,7 @@ github_username: Zeigren
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
