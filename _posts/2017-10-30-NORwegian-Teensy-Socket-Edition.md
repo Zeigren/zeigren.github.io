@@ -42,9 +42,13 @@ The NORwegian Teensy Socket Edition does not come with a Teensy++ 2.0 installed.
 ![NORwegianTeensySocketEditionTop](/assets/img/NORwegianTeensySocketEditionTop.jpg){:class="img-responsive"}
 ![NORwegianTeensySocketEditionTop](/assets/img/NORwegianTeensySocketEditionBottom.jpg){:class="img-responsive"}
 
-<div class="products">
-  {{ content }}
-</div>
+<button type="button" class="snipcart-add-item"
+ data-item-name="NORwegian Teensy Socket Editiion "
+ data-item-price="60.00"
+ data-item-id="42"
+ data-item-url="">
+  Add to cart
+</button>
 
 
 

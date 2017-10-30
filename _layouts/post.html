@@ -9,7 +9,6 @@ head: snipcart.html
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
-    {% include snipcart.html %}
 </head>
 <body>
     {% include nav.html %}
@@ -35,16 +34,6 @@ head: snipcart.html
                     </a>
                 </div>
                 {{ content }}
-                <div class="products">
-                    <button class="snipcart-add-item"
-                    data-item-name="{{ product.name }}"
-                    data-item-id="{{ product.sku }}"
-                    data-item-image="{{ product.image }}"
-                    data-item-url="{{ site.baseurl }}"
-                    data-item-price="{{ product.price }}">
-                    Buy it for {{ product.price }} $
-                  </button>
-                  </div>
               </div>
                 <div class="entry-meta">
                 {% include meta.html %}
