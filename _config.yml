@@ -10,7 +10,6 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url: //zeigren.github.io
 url: https://zeigren.github.io
-url: http://zeigren.github.io
 
 # Jekyll
 permalink:          /:title/
