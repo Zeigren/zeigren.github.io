@@ -13,4 +13,3 @@ Requires:
 * External 3.3V DC Power Supply
 
 Check the [Github wiki](https://github.com/Zeigren/NORwegianTeensy/wiki/NORwegian-Teensy-Socket-Edition "NORwegian Teensy Socket Edition Github Wiki") for more info
-
