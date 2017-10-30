@@ -1,5 +1,6 @@
 ---
 layout: compress
+head: snipcart.html
 ---
 <!DOCTYPE html>
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -8,6 +9,7 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+    {% include snipcart.html %}
 </head>
 <body>
     {% include nav.html %}
@@ -33,22 +35,16 @@ layout: compress
                     </a>
                 </div>
                 {{ content }}
-                <div class="product">
-                
-                <a class="product" href="{{ site.baseurl }}{{ product.url }}">
-                  <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
-                  <p>{{ product.name }}</p>
-                </a>
-                
-                <button class="snipcart-add-item"
-                  data-item-name="{{ product.name }}"
-                  data-item-id="{{ product.sku }}"
-                  data-item-image="{{ product.image }}"
-                  data-item-url="{{ site.baseurl }}"
-                  data-item-price="{{ product.price }}">
-                  Buy it for {{ product.price }} $
-                </button>
-              
+                <div class="products">
+                    <button class="snipcart-add-item"
+                    data-item-name="{{ product.name }}"
+                    data-item-id="{{ product.sku }}"
+                    data-item-image="{{ product.image }}"
+                    data-item-url="{{ site.baseurl }}"
+                    data-item-price="{{ product.price }}">
+                    Buy it for {{ product.price }} $
+                  </button>
+                  </div>
               </div>
                 <div class="entry-meta">
                 {% include meta.html %}
