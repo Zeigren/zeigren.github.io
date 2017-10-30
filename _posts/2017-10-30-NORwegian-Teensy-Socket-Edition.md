@@ -7,18 +7,21 @@ tag:
 - NORwegian Teensy Socket Editiion 
 - PS3 Downgrade
 comments: false
-head: snipcart.html
-name: NORwegian Teensy Socket Edition
-price: 60
-slug: NORwegian-Teensy-Socket-Edition
-sku: NTSE
-image: (/assets/img/NORwegianTeensySocketGlamour.jpg){:class="img-responsive"}
 ---
 
 ![NORwegianTeensySocketEdition](/assets/img/NORwegianTeensySocketGlamour.jpg){:class="img-responsive"}
 
 ## A TSOP48 NAND and TSOP56 NOR Reader/Writer
-### Designed with PS3 Downgrading in mind
+### Designed with PS3 Downgrading in Mind
+### $60.00 + Shipping
+
+<button type="button" class="snipcart-add-item"
+ data-item-name="NORwegian Teensy Socket Editiion "
+ data-item-price="60.00"
+ data-item-id="01"
+ data-item-url="https://zeigren.github.io/NORwegian-Teensy-Socket-Edition/">
+  Add to cart
+</button>
 
 Comes installed with:
 * TSOP48 ZIF Socket for NANDs
@@ -37,18 +40,11 @@ If you're not comfortable with desoldering TSOP packages check out the the NORwe
 
 Check the [Github wiki](https://github.com/Zeigren/NORwegianTeensy/wiki/NORwegian-Teensy-Socket-Edition "NORwegian Teensy Socket Edition Github Wiki") for more info about the NORwegian Teensy Socket Edition and for a PS3 downgrading guide.
 
-The NORwegian Teensy Socket Edition does not come with a Teensy++ 2.0 installed. If you order one this is what it will look like.
+The NORwegian Teensy Socket Edition does not come with a Teensy++ 2.0 installed. If you order one this is what it will look like + your choice of either headers or a terminal block.
 
 ![NORwegianTeensySocketEditionTop](/assets/img/NORwegianTeensySocketEditionTop.jpg){:class="img-responsive"}
 ![NORwegianTeensySocketEditionTop](/assets/img/NORwegianTeensySocketEditionBottom.jpg){:class="img-responsive"}
 
-<button type="button" class="snipcart-add-item"
- data-item-name="NORwegian Teensy Socket Editiion "
- data-item-price="60.00"
- data-item-id="42"
- data-item-url="">
-  Add to cart
-</button>
 
 
 
