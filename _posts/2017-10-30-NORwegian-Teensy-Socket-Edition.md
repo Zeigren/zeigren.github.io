@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title:  "NORwegian Teensy Socket Edition"
 date:   2017-10-30
