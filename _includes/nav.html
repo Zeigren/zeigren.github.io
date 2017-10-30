@@ -82,14 +82,16 @@
                     </li>{% endif %}
                     {% if site.hackernews %}<li>
                         <a href="https://news.ycombinator.com/user?id={{ site.hackernews }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-hacker-news"></i> Hacker News</a>
-                    </li>{% endif %}
+                    </li>{% endif %}<li>
+                        <a href="https://www.ebay.com/usr/{{ site.ebay }}" target="_blank" rel="noopener noreferrer"><i img src="{{assets.img.ebay.jpg}}" alt="ebay"></i> eBay</a>
+                    </li> 
 				</ul><!-- /.dl-submenu -->
 			</li>
 			<li>
 				<a href="#">Info</a>
 				<ul class="dl-submenu">
 					<li><a href="{{ site.url }}/info/">All Info</a></li>
-					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
+					<li><a href="{{ site.url }}/tags/">Tags</a></li>
                 </ul>
             </li>
             <li>
