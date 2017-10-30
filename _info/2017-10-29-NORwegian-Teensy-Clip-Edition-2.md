@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: info
 title: "NORwegian Teensy Clip Edition"
 date: 2017-10-29
 excerpt: "A TSOP48 NAND and TSOP56 NOR Reader/Writer"
+info: true
 tag: 
 - NORwegian Teensy Socket Edition 
 - PS3 Downgrade
