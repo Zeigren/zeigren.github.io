@@ -63,7 +63,7 @@ github-url:         Zeigren
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap

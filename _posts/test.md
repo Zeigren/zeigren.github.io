@@ -1,6 +1,6 @@
 ---
 layout: products
-title:  "Project Test"
+title:  "Product Test"
 date:   2016-04-06
 excerpt: "Testy"
 products: true
