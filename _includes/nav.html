@@ -90,8 +90,15 @@
 				<ul class="dl-submenu">
 					<li><a href="{{ site.url }}/info/">All Info</a></li>
 					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">Products</a>
+				<ul class="dl-submenu">
+					<li><a href="{{ site.url }}/products/">All Products</a></li>
+					<li><a href="{{ site.url }}/NORwegian-Teensy-Socket-Edition/">NORwegian Teensy Socket Edition</a></li>
 				</ul>
-			</li>
+            </li>
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}
