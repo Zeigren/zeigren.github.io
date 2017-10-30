@@ -1,5 +1,5 @@
 ---
-layout: products
+layout: post
 title:  "Product Test"
 date:   2016-04-06
 excerpt: "Testy"
