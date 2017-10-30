@@ -1,6 +1,6 @@
 ---
-layout: post-list
-title: Info
+layout: post
+title: All Info
 excerpt: "A List of Info"
 comments: false
 ---
