@@ -24,7 +24,7 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-
+api_key: MGNhMWYyNWQtZjcyMy00MWRkLThjZTctNGUxY2JiNDZhZDU1NjM2NDQ5NDg1MTMzMjQzODky
 # Comments
 #disqus_shortname:   taylantatli
 
