@@ -215,6 +215,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed
+  jekyll-gist
+  jekyll-mentions
+  jekyll-sitemap
 
 BUNDLED WITH
    1.15.4
