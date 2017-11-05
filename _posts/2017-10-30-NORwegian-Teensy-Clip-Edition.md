@@ -26,6 +26,8 @@ comments: false
   Add to cart
 </button>
 
+#### Payments go through PayPal, [eBay Seller Feedback](https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=zeigren&ftab=FeedbackAsSeller&searchInterval=30)
+
 ### Have Me Put A Teensy++ 2.0 On It - $30.00 
 #### Might take up a week to ship, I don't keep Teensy's in stock so I have to order one
 

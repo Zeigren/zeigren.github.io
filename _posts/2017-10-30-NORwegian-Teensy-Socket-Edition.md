@@ -24,7 +24,7 @@ comments: false
  data-item-url="https://zeigren.github.io/NORwegian-Teensy-Socket-Edition/">
   Add to cart
 </button>
-
+#### Payments go through PayPal, [eBay Seller Feedback](https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=zeigren&ftab=FeedbackAsSeller&searchInterval=30)
 Comes installed with:
 * TSOP48 ZIF Socket for NANDs
 * TSOP56 ZIF Socket for NORs
