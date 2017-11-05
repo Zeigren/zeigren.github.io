@@ -41,8 +41,6 @@ The NORwegian Teensy Socket Edition requires desoldering the NOR or NAND from yo
 
 If you're not comfortable with desoldering TSOP packages check out the the NORwegian Teensy Clip Edition.
 
-Check the [Github wiki](https://github.com/Zeigren/NORwegianTeensy/wiki/NORwegian-Teensy-Socket-Edition "NORwegian Teensy Socket Edition Github Wiki") for more info about the NORwegian Teensy Socket Edition and for a PS3 downgrading guide.
-
 The NORwegian Teensy Socket Edition does not come with a Teensy++ 2.0 installed. If you order one this is what it will look like + your choice of either headers or a terminal block.
 
 ![NORwegianTeensySocketEditionTop](/assets/img/NORwegianTeensySocketEditionTop.jpg){:class="img-responsive"}
