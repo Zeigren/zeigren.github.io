@@ -22,6 +22,7 @@ comments: false
  data-item-price="65.00"
  data-item-weight="400"
  data-item-id="02"
+ data-item-image="https://i.imgur.com/kptlgxR.jpg"
  data-item-url="https://zeigren.github.io/NORwegian-Teensy-Clip-Edition/">
   Add to cart
 </button>

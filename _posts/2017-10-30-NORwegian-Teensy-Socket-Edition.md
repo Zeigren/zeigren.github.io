@@ -21,6 +21,7 @@ comments: false
  data-item-price="60.00"
  data-item-weight="400"
  data-item-id="01"
+ data-item-image="https://i.imgur.com/l9xtGk4.jpg"
  data-item-url="https://zeigren.github.io/NORwegian-Teensy-Socket-Edition/">
   Add to cart
 </button>
