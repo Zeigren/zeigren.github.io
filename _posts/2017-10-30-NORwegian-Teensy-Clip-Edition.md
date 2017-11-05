@@ -19,6 +19,7 @@ comments: false
 <button type="button" class="snipcart-add-item"
  data-item-name="NORwegian Teensy Clip Edition"
  data-item-price="65.00"
+ data-item-weight="400"
  data-item-id="02"
  data-item-url="https://zeigren.github.io/NORwegian-Teensy-Clip-Edition/">
   Add to cart
