@@ -24,8 +24,10 @@ layout: compress
                       {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
-                    {% if page.product %}
-                    <a class="btn zoombtn" href="{{site.url}}/products/">
+                    {% if page.hardware %}
+                    <a class="btn zoombtn" href="{{site.url}}/hardware/">
+                    {% else if page.guide %}
+                    <a class="btn zoombtn" href="{{site.url}}/guides/">
                     {% else %}
                     <a class="btn zoombtn" href="{{site.url}}/info/">
                     {% endif %}

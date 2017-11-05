@@ -2,21 +2,21 @@
 layout: post
 title:  "NORwegian Teensy Socket Edition"
 excerpt: "A TSOP48 NAND and TSOP56 NOR Reader/Writer, using ZIF sockets"
-product: true
+hardware: true
 tag:
-- NORwegian Teensy Socket Editiion 
+- NORwegian Teensy Socket Edition 
 - PS3 Downgrade
 comments: false
 ---
 
 ![NORwegianTeensySocketEdition](/assets/img/NORwegianTeensySocketGlamour.jpg){:class="img-responsive"}
 
-## A TSOP48 NAND and TSOP56 NOR Reader/Writer
+## A TSOP48 NAND and TSOP56 NOR Reader/Writer Using ZIF Sockets
 ### Designed with PS3 Downgrading in Mind
 ### $60.00 + Shipping
 
 <button type="button" class="snipcart-add-item"
- data-item-name="NORwegian Teensy Socket Editiion "
+ data-item-name="NORwegian Teensy Socket Edition "
  data-item-price="60.00"
  data-item-id="01"
  data-item-url="https://zeigren.github.io/NORwegian-Teensy-Socket-Edition/">
