@@ -15,7 +15,6 @@ comments: false
 ### Designed with PS3 Downgrading in Mind
 ### $65.00 + Shipping
 #### Can take a couple days to ship, I'm putting these together as they're ordered right now
-#### I recommened just picking the small flat rate box
 
 <button type="button" class="snipcart-add-item"
  data-item-name="NORwegian Teensy Clip Edition"

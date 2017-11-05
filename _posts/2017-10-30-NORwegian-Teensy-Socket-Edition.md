@@ -14,7 +14,6 @@ comments: false
 ## A TSOP48 NAND and TSOP56 NOR Reader/Writer Using ZIF Sockets
 ### Designed with PS3 Downgrading in Mind
 ### $60.00 + Shipping
-#### I recommened just picking the small flat rate box
 
 <button type="button" class="snipcart-add-item"
  data-item-name="NORwegian Teensy Socket Edition "
