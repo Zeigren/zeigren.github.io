@@ -97,12 +97,12 @@ I'll cover some basics.
 
 A quick rundown of what all these different terms mean.
 
-CFW is Custom Firmware
-OFW is Official/Retail Firmware
-CEX is consumer or retail consoles
-DEX is Debug/developer consoles
-REX is the Rebug Custom Firmware for CEX(Consumer)
-D-REX is the Rebug Custom Firmware for DEX(Developer)
+* CFW is Custom Firmware
+* OFW is Official/Retail Firmware
+* CEX is consumer or retail consoles
+* DEX is Debug/developer consoles
+* REX is the Rebug Custom Firmware for CEX(Consumer)
+* D-REX is the Rebug Custom Firmware for DEX(Developer)
 
 If you don't need all the developer options, or don't know if you need all the developer options I recommened going with the REX Rebug firmware. This is what the majority of people with modded PS3's use.
 
