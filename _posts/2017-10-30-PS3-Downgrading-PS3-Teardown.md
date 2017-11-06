@@ -24,28 +24,42 @@ One cube for the outside screws, one cube for the screws that go on the top side
 Now we need to find the NOR or NAND on the motherboard. 
 Since there are so many different motherboard revisions there are a lot of places the NAND or NOR could be located.
 
-Here is a list of all the different [motherboard revisions](http://www.psdevwiki.com/ps3/Motherboard_Revisions)
+Here is a list of all the different motherboard revisions on [psdevwiki.com](http://www.psdevwiki.com/ps3/Motherboard_Revisions).
 
-You can check that site and see the name of the NAND or NOR Flash Storage on your motherboard. 
-Which can help you find it on your board (like COK-001 has Samsung K9F1G08U0A-PIB0 NANDs).
+I've taken pictures of the downgradeable motherboards from there, and annotated them with their NAND/NOR locations.
 
-Also just google your board revision plus NAND or NOR to find pictures of where it's located. I'll probably upload some here at some point.
+## COK - 001
+![COK-001_BOTTOM](/assets/img/COK-001_BOTTOM.jpg){:class="img-responsive"}
+![COK-001_TOP](/assets/img/COK-001_TOP.jpg){:class="img-responsive"}
+
+## COK-002/COK-002w
+![COK-002_TOP](/assets/img/COK-002_TOP.jpg){:class="img-responsive"}
+
+## SEM-001
+![SEM-001_Topside](/assets/img/SEM-001_Topside.jpg){:class="img-responsive"}
+![SEM-001_Bottomside](/assets/img/SEM-001_Bottomside.jpg){:class="img-responsive"}
+
+## DIA-001
+![DIA-001_TOP](/assets/img/DIA-001_TOP.jpg){:class="img-responsive"}
+
+## DIA-002
+![DIA-002_TOP](/assets/img/DIA-002_TOP.jpg){:class="img-responsive"}
+
+## VER-001
+![VER-001-TOP](/assets/img/VER-001-TOP.jpg){:class="img-responsive"}
+
+## DYN-001
+![DYN-001_TOP](/assets/img/DYN-001_TOP.jpg){:class="img-responsive"}
+
+## SUR-001
+![SUR-001_TOP](/assets/img/SUR-001_TOP.jpg){:class="img-responsive"}
+
+## JTP-001/JSD-001
+![JTP-001_TOP](/assets/img/JTP-001_TOP.jpg){:class="img-responsive"}
 
 NORs have only one NOR.
 
-NANDs have two NANDs. Both need to be dumped and then flashed to again. There's NAND0/LOW and NAND1/HIGH. Unfortunately they're in different places depending on the board so here's a list of which is which. Lifted from psdevwiki.com.
-
-```
-COK-001 :
-IC3802 LOW (main componentside next to Starship2)
-IC3803 HIGH (backside next to 60-pin BD ATA connector)
-COK-002 + COK-002W :
-IC3802 LOW (main componentside between SATA connector and South Bridge)
-IC3803 HIGH (main componentside between SATA connector and AV Multi connector)
-SEM-001 :
-IC3802 LOW (backside)
-IC3803 HIGH (main componentside with SATA connector, CELL BE, RSX etc.)
-```
+NANDs have two NANDs. Both need to be dumped and then flashed to again. There's NAND0/LOW and NAND1/HIGH, you can see which is which in the pictures above.
 
 # [Setting Up The Clip Edition Continue - Page 4a]({{ "/PS3-Downgrading-Setting-Up-The-Clip-Edition/" | relative_url}})
 

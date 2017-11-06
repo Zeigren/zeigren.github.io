@@ -12,7 +12,7 @@ comments: false
 
 # Further Information
 ## baileyscream Ultimate Downgrade Guide
-### My guide is *hugely influenced* if not a direct ripoff in some spots of bailyscream Ultimate Downgrade Guide.
+### My guide is *hugely influenced* if not a direct ripoff in some spots of baileyscream Ultimate Downgrade Guide.
 
 [NORway Guide](http://www.ps3hax.net/showthread.php?p=387777#post387777)
 

@@ -17,12 +17,16 @@ comments: false
 
 **THIS IS IMPORTANT** Set the switch on the Clip Edition to NAND.
 
+If you didn't download it earlier here's the zip file with the exact folder structure I use, and with all the files you need inside of it.
+
+You can [download it here](https://mega.nz/#!ovIEhS5D!Eke5679s1qnOJEv8Bs3BSBIGjsHzn5Zzmj0-w6hrAk4)
+
 Unzip the PS3 Downgrading Files you downloaded, and install the files in the install first folder.
 ![InstallFirst](/assets/img/InstallFirst.PNG){:class="img-responsive"}
 
 Now plug your Teensy++ 2.0 USB cable into your computer and the microUSB cable into the Clip Edition.
 
-Open up the WAY-launcers folder and run WAY-launchers.exe.
+Open up the WAY-launchers folder and run WAY-launchers.exe.
 ![waylauncherfolder](/assets/img/waylauncherfolder.PNG){:class="img-responsive"}
 
 Click on the NAND tab.
@@ -78,34 +82,39 @@ BwE NAND Validator and PS3DumpChecker.
 
 These two are usually enough for me. 
 
-I added norpatch that you can also check with to be extra safe. You
-can also check manually using a hex editor. These are good things to consider doing.
+I added norpatch that you can also check with. You can also check manually using a hex editor. These are good things to consider doing.
 
 ### BwE Validator
 Run BwE NAND Validator. Pick the merged dump, and just hit N for all the options it gives you.
 ![BwENAND](/assets/img/BwENAND.PNG){:class="img-responsive"}
 
 Now it'll check your dump. After a little bit it will show you some quick results at the bottom. Ideally you want Warning: 0 and Danger: 0.
+![BwEQuickResults](/assets/img/BwEQuickResults.PNG){:class="img-responsive"}
 
 After you exit the program it'll open up a webpage with the full results of the check, it also saves this as an html file you can look at later. You should look over this to see where any of the Warning or Danger sections are. 
 
 BwE hasn't been updated in awhile so if your errors are in the ROS0 and ROS1 sections that can be attributed to you having a newer firmware that it doesn't recognize.
+![BwEROS0](/assets/img/BwEROS0.PNG){:class="img-responsive"}
+![BwEROS1](/assets/img/BwEROS1.PNG){:class="img-responsive"}
+![BwEMD5](/assets/img/BwEMD5.PNG){:class="img-responsive"}
+![BwEOther](/assets/img/BwEOther.PNG){:class="img-responsive"}
 
 ### PS3DumpChecker
 Run PS3DumpChecker. Check image, choose the merged dump you want to check. Don't patch the image.
+![PS3DumpChecker](/assets/img/PS3DumpChecker.PNG){:class="img-responsive"}
 
 If it says OK and the only errors you got with BwE were for ROS0 and ROS1 you are probably good to go. But if you end up with any errors check the troubleshooting section, google them, and then ask for help if you can't figure it out. 
 
 You **absolutely need** good dumps before you can do anything else.
 
 ### Patching Your Dumps
-Now that you've verified that your dumps are good, now we can patch them.
+Now that you've verified that your dumps are good, now you can patch them.
 
-You have the option of either patching for 3.55 or to patch to immediately go to whatever CFW you're going to use.
+You have the option of either patching for 3.55 or to patch to go to CFW.
 
 I normally downgrade all the way to 3.55 before doing anything else, you have to reformat your PS3 this way though, and boot into FSM (factory service mode). 
 
-But if you're planning on just going to the latest firmware and don't want to reformat your PS3 patching for CFW is a good choice, you don't have to go into FSM, and it's easier. 
+But if you're planning on just going to the latest custom firmware and don't want to reformat your PS3 patching for CFW is the way to go, you don't have to go into FSM either, and it's easier. 
 
 So make your choice.
 
@@ -135,7 +144,7 @@ Hopefully your still connected to your PS3 and it hasn't been disturbed in anywa
 
 Open WAY-launchers.exe again.
 
-Go to the NAND tab, and Info then click Start. Make sure you still have a good connection to your PS3. If you don't reseat everything and check the troubleshooting section.
+Go to the NAND tab, and Info then click Start. Make sure you still have a good connection to your PS3. If you don't reseat everything.
 
 Now go to the Write Tab.
 
@@ -144,6 +153,8 @@ For the dump file you're going to pick the new.bin of the NAND you're currently 
 Then you will also click Use Diff. file, the Diff. file will be in NAND DUMP COPIES folder, in a folder called Differential Flashing. Pick Flash0(TOP) or Flash1(BOTTOM) depending on which NAND you're currently connected to.
 
 Then Click verify after write, and then Start!
+
+![NANDwrite](/assets/img/NANDwrite.PNG){:class="img-responsive"}
 
 Using a diff. file it only takes like 2 minutes to write a NAND. So once that's done and it verifies correctly you now have to do the same thing to the NAND on the other side of the motherboard.
 

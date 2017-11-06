@@ -58,7 +58,24 @@ You don't need to use the pin from a jumper wire, any other small pin like thing
 #### Tristate on NOR consoles
 If your console is a NAND console you can skip this. If it's a NOR you'll need it.
 
-For NOR consoles you have to solder a wire from Trisate on the clip edition to Tristate on the PS3 motherboard. Search google for your motherboard revision + tristate to see where it's located. I'll add pictures eventually.
+For NOR consoles you have to solder a wire from Trisate on the clip edition to Tristate on the PS3 motherboard. Here are some pictures of the Tristate locations for different boards.
+
+#### DIA-001/DIA-002
+![DIA-001_BOTTOM](/assets/img/DIA-001_BOTTOM.jpg){:class="img-responsive"}
+![DIA-001_NOR](/assets/img/DIA-001_NOR.jpg){:class="img-responsive"}
+
+#### VER-001
+![VER-001_BOTTOM](/assets/img/VER-001_BOTTOM.jpg){:class="img-responsive"}
+![VER-001_NOR](/assets/img/VER-001_NOR.jpg){:class="img-responsive"}
+
+#### DYN-001
+![DYN-001_BOTTOM](/assets/img/DYN-001_BOTTOM.jpg){:class="img-responsive"}
+![DYN-001_NOR](/assets/img/DYN-001_NOR.jpg){:class="img-responsive"}
+
+#### SUR-001/JTP-001/JSD-001
+![JTP-001_BOTTOM](/assets/img/JTP-001_BOTTOM.jpg){:class="img-responsive"}
+![JSD-001_NOR](/assets/img/JSD-001_NOR.png){:class="img-responsive"}
+
 
 I recommened soldering a wire to Tristate on the PS3 and taping it down, then only connect it to the Clip Edition once you have everything else set up and your clip in place.
 ![TRISTATE](/assets/img/TRISTATE.jpg){:class="img-responsive"}

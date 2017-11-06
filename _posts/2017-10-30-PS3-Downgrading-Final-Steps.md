@@ -19,9 +19,11 @@ If you chose to patch to 3.55 using BwE then follow the Downgrade to 3.55 sectio
 If you chose to noFSM patch using PS3DumpChecker then follow Downgrade to CFW section.
 
 ## Downgrade to 3.55
-You'll need go into FSM in order to flash down to 3.55. Luckily you can just use the Teensy++ 2.0 to do this! 
+You'll need to go into FSM in order to flash down to 3.55. Luckily you can just use the Teensy++ 2.0 to do this! 
 
-Go into the FSM folder and run the Teensy Loader (Teensy.exe), open hex file and choose psgrade_at90usb1286_8Mhz_teensy++_2.0_noLED.hex. Hit the reset button on the Teensy++ 2.0. Then hit program. Once it's done hit reboot.
+Go into the FSM folder and run the Teensy Loader (Teensy.exe), open hex file and choose psgrade_at90usb1286_8Mhz_teensy++_2.0_noLED.hex. Hit the reset button on the Teensy++ 2.0. Then hit program in Teensy Loader. Once it's done hit reboot in Teensy Loader.
+![FSM](/assets/img/FSM.PNG){:class="img-responsive"}
+![teensyloader](/assets/img/teensyloader.PNG){:class="img-responsive"}
 
 Unplug your Teensy++ 2.0 from your computer, and while your PS3 is off plug the Teensy++ 2.0 into the right most USB port on your PS3.
 
@@ -31,7 +33,7 @@ Your PS3 should turn on for a little bit then turn off on its own.
 
 Now you unplug the Teensy++ 2.0 from the PS3.
 
-You need to put some files onto a flash drive that has been formatted to FAT32 that you'll then insert into your PS3. The files will be in the 'Get Into FSM folder'.
+You need to put some files onto a flash drive, that has been formatted to FAT32, that you'll then insert into your PS3. The files will be in the 'Get Into FSM' folder.
 
 Put those onto a USB flash drive, and put the flash drive in the right most USB port of your PS3.
 
@@ -39,12 +41,17 @@ Turn on your PS3, it should have a black screen but your HDD activity light shou
 
 Remove the USB drive and put it back into your computer. There should be a file called UPDATER_LOG on it. Check it and at the bottom it should say 0x83manufacturing updating SUCCESS(0x8002f000).
 
-You now need to get your PS3 out of FSM. Delete the files on your USB drive. Go to the 'Get Out Of FSM files' and put them on your USB drive. Put the USB drive into the right most port in your PS3. Turn your PS3 on, it should turn on for a little bit then turn off again. Remove the USB drive. Now you should be on rogero 3.55 spoofed to 4.11.
+You now need to get your PS3 out of FSM. 
+
+Delete the files on your USB drive. Go to the 'Get Out Of FSM' folder and put them on your USB drive. Put the USB drive into the right most port in your PS3. Turn your PS3 on, it should turn on for a little bit then turn off again. Remove the USB drive. Now you should be on Rogero 3.55 spoofed to 4.11.
 
 ### QA Flag De-Hashing
-This is the final step in getting down to 3.55 OFW. It's also done in order to prevent bricking.
+This is the final step in getting down to 3.55 OFW.
 
-Delete the files on your USB drive. Put the files in the 'QA Flag De-Hashing' folder onto it. Put the USB drive into your PS3.
+Delete the files on your USB drive. Put the files in the 'QA Flag De-Hashing' folder onto it.
+![qaflag](/assets/img/qaflag.PNG){:class="img-responsive"}
+
+ Put the USB drive into your PS3.
 
 Turn on your PS3. Install QA toggle from XMB under homebrew - THEN run it from GAME, your PS3 should beep three times.
 
@@ -67,7 +74,7 @@ Now if you want to install a CFW you can.
 
 Check the Choosing a CFW section below if you don't know what CFW you want.
 
-Copy the CFW you want to use to a USB drive and put it in a UPDATE folder inside a PS3 folder.
+Copy the CFW you want to use to a USB drive and put it in a UPDATE folder inside a PS3 folder, make sure the file is named PS3UPDAT.PUP if it's not rename it.
 
 Plug that into the right most USB port. Make sure there isn't a disc in the Blu-Ray drive. Then install the update from XMB under Update, Install from Mass Storage Device.
 
@@ -81,7 +88,7 @@ If your PS3 is booting to a black screen you need to enter recovery.
 * Press and hold the power button again until you get one beep, then a second beep and then let go of the power button. It should boot into recovery.
 * Select "6. System Update" to reinstall the firmware.
 
-Once your PS3 boots fine, copy the CFW you want to use to a USB drive and put it in a UPDATE folder inside a PS3 folder.
+Once your PS3 boots fine, copy the CFW you want to use to a USB drive and put it in a UPDATE folder inside a PS3 folder, make sure the file is named PS3UPDAT.PUP if it's not rename it.
 
 Check the Choosing a CFW section below if you don't know what CFW you want.
 
@@ -104,7 +111,7 @@ A quick rundown of what all these different terms mean.
 * REX is the Rebug Custom Firmware for CEX(Consumer)
 * D-REX is the Rebug Custom Firmware for DEX(Developer)
 
-If you don't need all the developer options, or don't know if you need all the developer options I recommened going with the REX Rebug firmware. This is what the majority of people with modded PS3's use.
+If you don't need all the developer options, or don't know if you need all the developer options I recommened going with the REX Rebug firmware. This is probably what the majority of people with modded PS3's use.
 
 Here's a link to the [Rebug](https://rebug.me/) website where you can download the latest Rebug firmware.
 
