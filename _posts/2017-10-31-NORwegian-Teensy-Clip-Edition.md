@@ -26,7 +26,7 @@ comments: false
   Add to cart
 </button>
 
-#### Payments go through PayPal, [eBay Seller Feedback](https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=zeigren&ftab=FeedbackAsSeller&searchInterval=30)
+#### Payments go through PayPal, feel free to check my [eBay Seller Feedback](https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=zeigren&ftab=FeedbackAsSeller&searchInterval=30)
 
 ### Have Me Put A Teensy++ 2.0 On It - $30.00 
 #### Might take up a week to ship, I don't keep Teensy's in stock so I have to order one
@@ -43,7 +43,7 @@ The NORwegian Teensy Clip Edition is an easy way to read/write to TSOP56 NORs an
 
 It also has a built in 5v to 3.3v voltage regulator, so all you need is a 5v 2Amp USB phone charger in order to power everything.
 
-### Features
+## Features
 * **READ/WRITE NANDS WITH THE E3 NOR CLIP**
 * **Read/write NORs with the E3 NOR clip**
 * Read/write NANDs with the 360 clip (32 pin)
@@ -55,7 +55,7 @@ It also has a built in 5v to 3.3v voltage regulator, so all you need is a 5v 2Am
 * Utilizes the Teensy++ 2.0 in conjunction with judges NORway and NANDway Signal Booster Edition software to read/write NORs and NANDs
 * Has 3.3v power output headers
 
-### Comes installed with:
+## Comes installed with:
 * 2x E3 connectors one for NANDs, one for NORs
 * 2x 60 pin connectors for NOR and NAND UNI clips
 * 32 pin connector for 32 pin 360 clips
@@ -67,9 +67,9 @@ It also has a built in 5v to 3.3v voltage regulator, so all you need is a 5v 2Am
 * Your choice of either pin headers or a screw terminal block for power output
 * Pin header to connect to Tristate (for NORs)
 
-### Requires:
-* Teensy++ 2.0
-* Whatever clips you want to use with it
+## Requires (does not come with):
+* Teensy++ 2.0 (unless you add it to cart)
+* Any clips you want to use with it
 * A computer
 * 2 Amp phone charger
 

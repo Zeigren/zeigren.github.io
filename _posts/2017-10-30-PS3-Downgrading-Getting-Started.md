@@ -81,6 +81,7 @@ These aren't as plentiful as they once were.
 Pretty much as good as the NAND UNI Clip.
 
 ## Socket Edition
+![NORwegianTeensySocketEdition](/assets/img/NORwegianTeensySocketGlamour.jpg){:class="img-responsive"}
 * A NORwegian Teensy Socket Edition
 * A Teensy++ 2.0
 * A External 3.3v power supply

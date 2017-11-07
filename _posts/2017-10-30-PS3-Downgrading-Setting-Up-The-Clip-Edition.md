@@ -37,7 +37,7 @@ To double check that the 5v trace is cut, use a multimeter and put it into conti
 ![3vBridgedCheck](/assets/img/3vBridgedCheck.jpg){:class="img-responsive"}
 Now the Teensy++ 2.0 is ready to be soldered to the Clip Edition.
 
-I recommened placing the pin headers into the Clip Edition, then place the Teensy++ 2.0 on top of the headers
+I recommend placing the pin headers into the Clip Edition, then place the Teensy++ 2.0 on top of the headers
 ![NTCEHEADERS](/assets/img/NTCEHEADERS.jpg){:class="img-responsive"}
 Then solder the headers to the Teensy++ 2.0, then flip the whole thing over and solder the headers to the Clip Edition. You'll want headers for everything except, ALE, E4 and E5 (E4 and E5 covered below).
 
@@ -58,7 +58,7 @@ You don't need to use the pin from a jumper wire, any other small pin like thing
 #### Tristate on NOR consoles
 If your console is a NAND console you can skip this. If it's a NOR you'll need it.
 
-For NOR consoles you have to solder a wire from Tristate on the clip edition to Tristate on the PS3 motherboard. Here are some pictures of the Tristate locations for different boards.
+For NOR consoles you have to solder a wire from Tristate on the clip edition to Tristate on the PS3 motherboard. Here are some pictures of the Tristate locations for different boards. Images from psdevwiki.com.
 
 #### DIA-001/DIA-002
 ![DIA-001_BOTTOM](/assets/img/DIA-001_BOTTOM.jpg){:class="img-responsive"}
