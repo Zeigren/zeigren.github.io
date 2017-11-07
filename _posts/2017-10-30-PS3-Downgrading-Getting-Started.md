@@ -44,7 +44,7 @@ As you know the Clip Edition supports every clip, at least every clip I know of.
 
 But which clip is right for you?
 
-#### E3 Flasher Clip / E3 Flasher NOR Clip Suit
+#### E3 Flasher Clip / E3 Flasher NOR Clip Suit / E3 Clip Suit / E3 Flasher E3 NOR Flash Clip Cable
 ![E3CLIP](/assets/img/E3CLIP.jpg){:class="img-responsive"}
 You can use it for both **NORs** and **NANDs** on the Clip Edition. 
 
@@ -56,7 +56,9 @@ So it might not be as good as some of the other clips.
 
 The Clip Edition makes it possible to use the E3 clip for NAND downgrading, but it is **annoying** to say the least. It can be quite fiddly, but it is doable.
 
-#### NOR UNI Clip (56 pin)
+You can find the E3 Clip on places like eBay, AliExpress, and various modchip/modding websites. You only need the clip itself, with it's cable still attached of course. Often times the clip is sold with an adapter board called the E3 Linker, you don't need it but there usually isn't much of a price difference in buying one with or without the E3 Linker.
+
+#### NOR UNI Clip (56 pin) / UNI 56 CLIP / 360 CLIP - 56
 ![56UNICLIP](/assets/img/56UNICLIP.jpg){:class="img-responsive"}
 It can be used for both NOR and NAND consoles.
 
@@ -66,19 +68,27 @@ It has a shorter, thicker cable. So you might have better luck using it over the
 
 Probably just as fiddly to use for NANDs as the E3 clip.
 
-#### NAND UNI Clip (48 pin)
+You can find it on places like eBay, AliExpress, and various modchip/modding websites. You only need the clip itself with the cable. Often times the clip is sold with an adapter board, you don't need it but there usually isn't much of a price difference in buying one with or without the adapter board.
+
+#### NAND UNI Clip (48 pin) / UNI 48 CLIP (360 Clip)
 ![48UNITOP](/assets/img/48UNITOP.jpg){:class="img-responsive"}
 Just for NAND consoles.
 
 About the same price as the NOR UNI Clip, with the same cable. Isn't super easy to come by.
 
 Easier to use for NANDs, since it's made to do that.
+
+You can find it on places like eBay, AliExpress, and various modchip/modding websites. You only need the clip itself with the cable. Often times the clip is sold with an adapter board, you don't need it but there usually isn't much of a price difference in buying one with or without the adapter board.
+
 #### NAND 360 Clip (32 pin)
 ![360TOP](/assets/img/360TOP.jpg){:class="img-responsive"}
 The OG NAND clip. Just for NAND consoles.
 
 These aren't as plentiful as they once were.
-Pretty much as good as the NAND UNI Clip.
+
+Pretty much as good as the NAND UNI Clip, but it's easier to fiddle with since it only has the pins necessary (mostly) to read/write to the NAND.
+
+You can find it on places like eBay, AliExpress, and various modchip/modding websites. You only need the clip itself with the cable. Often times the clip is sold with an adapter board, you don't need it but there usually isn't much of a price difference in buying one with or without the adapter board.
 
 ## Socket Edition
 ![NORwegianTeensySocketEdition](/assets/img/NORwegianTeensySocketGlamour.jpg){:class="img-responsive"}

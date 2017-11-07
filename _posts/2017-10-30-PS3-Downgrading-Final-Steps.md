@@ -68,7 +68,7 @@ Boot into recovery mode.
 * Press and hold the power button again until you get one beep, then a second beep and then let go of the power button. It should boot into recovery.
 * Select "6. System Update" to reinstall the firmware.
 
-If it works fine your PS3 will reboot, and be successfully dehashed and downgraded to OFW 3.55!
+If it works fine your PS3 will reboot, and be successfully de-hashed and downgraded to OFW 3.55!
 
 Now if you want to install a CFW you can.
 
