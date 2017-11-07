@@ -11,7 +11,7 @@ comments: false
 ![NTCETOP](/assets/img/NTCETOP.jpg){:class="img-responsive"}
 
 # Powering the NORwegian Teensy Clip Edition
-I recommened using a 5v 2amp USB phone charger with a microUSB cable to power it. But you could power it with an external power supply, just plug it into the 3.3v headers.
+I recommend using a 5v 2amp USB phone charger with a microUSB cable to power it. But you could power it with an external power supply, just plug it into the 3.3v headers.
 
 The Teensy++ 2.0 can either be powered from the NORwegian Teensy Clip Edition or with a MCP1825 regulator on the Teensy++ 2.0 itself.
 

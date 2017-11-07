@@ -26,7 +26,7 @@ Then the 3v pads need to be bridged with solder and a MCP1825 regulator needs to
 
 Now the Teensy++ 2.0 is ready to be soldered to the Socket Edition.
 
-I recommened placing the pins into the Socket Edition, then place the Teensy++ 2.0 on top of the pins, 
+I recommend placing the pins into the Socket Edition, then place the Teensy++ 2.0 on top of the pins, 
 solder the pins to the Teensy++ 2.0, then flip the whole thing over and solder the pins to the Socket Edition.
 
 If you solder the pins to the Teensy++ 2.0 first then try putting it into the Socket Edition you'll probably have to bend some of the pins into place.
@@ -46,10 +46,6 @@ You don't need to use the pin from a jumper wire, any other small pin like thing
 
 ### Power
 Teensy++ 2.0 is powered by onboard regulator. The Socket Edition needs an external 3.3v power supply.
-
-
-
-
 
 # Software
 If you downloaded my PS3 Downgrading Files.zip, just extract that you'll be good to go. You can skip this part.
@@ -72,13 +68,13 @@ I would recommend making a folder for your raw dumps, and another folder to copy
 That way your original dumps don't get messed up if you need them later.
 
 
-You will also want PS3dumpchecker and other checkers. To check your NAND/NOR.
+You will also want PS3DumpChecker and other checkers. To check your NAND/NOR.
 
 
-Flowrebuilder to put NANDs together.
+FlowRebuilder to put NANDs together.
 
 
-The FSM, NOFSM files. OFW and CFW stuff. Whatever other stuff you need.
+The FSM files. OFW and CFW stuff. Whatever other stuff you need.
 
 Here's what my folder looks like.
 

@@ -39,7 +39,7 @@ You can also check using [MinVerChk](http://psx-scene.com/forums/content/minverc
 
 Once you know that you can downgrade, check which type of flash memory your PS3 uses on the same chart. It will either be NOR or NAND. Whether your PS3 is NOR or NAND will determine how you downgrade your PS3. As each is downgraded slightly differently.
 
-The NORwegian Teensy Clip and Socket Edition use a PJRC Teensy++ 2.0 in conjunction with NORway and NANDway in order to perfrom the downgrade.
+The NORwegian Teensy Clip and Socket Edition use a PJRC Teensy++ 2.0 in conjunction with NORway and NANDway in order to perform the downgrade.
 
 PS3 downgrading isn't the easiest thing in the world. I've made this guide and this hardware to try and make it a little easier, but there can still be all kinds of problems and issues you run into along the way.
 

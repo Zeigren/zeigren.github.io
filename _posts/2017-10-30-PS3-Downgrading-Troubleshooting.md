@@ -48,14 +48,14 @@ After the clips having poor connections the next thing is power problems. With t
 
 Power problems can cause most of the same issues as bad clip connections, just the bad clip connections are more likely.
 
-If your Clip Edition has a high pitch whine, unplug both USB cables. There is a short between 3.3v and GND on the board. You can confirm this by checking for continuity using a multimeter between GND and 3.3v. Make sure the NAND/NOR switch isn't stuck somewhere between the two. Check if there are any debris stuck inbetween pins on the board, or around any capacitors.
+If your Clip Edition has a high pitch whine, unplug both USB cables. There is a short between 3.3v and GND on the board. You can confirm this by checking for continuity using a multimeter between GND and 3.3v. Make sure the NAND/NOR switch isn't stuck somewhere between the two. Check if there are any debris stuck in between pins on the board, or around any capacitors.
 
 ### Things you can try
-* If you're using an external power supply it might be too noisy, I recommened powering the NORwegian Teensy Clip Edition over microUSB.
+* If you're using an external power supply it might be too noisy, I recommend powering the NORwegian Teensy Clip Edition over microUSB.
 * Check for 3.3v at the external power headers while the microUSB cable is plugged in. If you're not getting 3.2v to 3.4v there might be a problem with the onboard regulator, or the USB charger you're using.
 * Check if you're getting 5v from the USB charger. Use a multimeter and check between 'GND' and this side of the capacitor 'CIN'. You can use the outside of the USB port as 'GND', or any other 'GND' point on the board.
 ![POWER](/assets/img/POWER.jpg){:class="img-responsive"}
-* Try a different USB charger, I recommened a 2 amp charger or higher. You might have problems with chargers that are under 2 amps. Or just have one that isn't so great.
+* Try a different USB charger, I recommend a 2 amp charger or higher. You might have problems with chargers that are under 2 amps. Or just have one that isn't so great.
 * Also try a different microUSB cable.
 * If you're using a Teensy++ 2.0 that already has a voltage regulator on it make sure that the 5v hole/pin on the Teensy++ 2.0 is disconnected from the NORwegian Teensy Clip Edition
 
@@ -141,7 +141,7 @@ If you're still having problems with dumping/checking/flashing your NOR/NAND. Go
 ## Hardware Problems
 * PS3 Won't Turn On After Flashing
 * YLOD
-* Blank Screen After Insalling QA toggle
+* Blank Screen After Installing QA toggle
 
 If you patched to CFW, and it's firmware is higher then the firmware you were on, it might boot to a black screen or just turn off after 5 seconds, that’s normal. You just have to enter recovery.
 

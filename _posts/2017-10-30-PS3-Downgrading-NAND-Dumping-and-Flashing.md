@@ -66,10 +66,10 @@ In NAND DUMP COPIES open FlowRebuilder.exe
 * Select your NAND0 dump for Flash0(TOP) and NAND1 dump for Flash1(Bottom).
 (Remember NAND0 is the NAND that is on the same side of the motherboard as the CPU.
 NAND1 is the NAND that is on the same side of the motherboard the Blu-Ray Drive connects to.)
-* Then select to save the output in the NAND DUMP COPIES folder. I recommened saving it as something like NANDmerged.
+* Then select to save the output in the NAND DUMP COPIES folder. I recommend saving it as something like NANDmerged.
 * Then execute operation
-* Flowrebuilder will tell you if you have any bad blocks, it'll also throw up an error if something went wrong
-* If you get an error that says it can't complete the merge, try merging them again in FlowRebuilder except switched. Input NAND1 instead of NAND0, and NAND0 instead of NAND 1. You might have just got the two mixed up. If that's the case then remember that! I would recommened renaming them right away to what they're supposed to be if that works, otherwise you're going to have a lot of heartache later on.
+* FlowRebuilder will tell you if you have any bad blocks, it'll also throw up an error if something went wrong
+* If you get an error that says it can't complete the merge, try merging them again in FlowRebuilder except switched. Input NAND1 instead of NAND0, and NAND0 instead of NAND 1. You might have just got the two mixed up. If that's the case then remember that! I would recommend renaming them right away to what they're supposed to be if that works, otherwise you're going to have a lot of heartache later on.
 * Also it's normal to have a few bad blocks, you just don't want a ton of them
 ![Flowrebuilder](/assets/img/Flowrebuilder.PNG){:class="img-responsive"}
 

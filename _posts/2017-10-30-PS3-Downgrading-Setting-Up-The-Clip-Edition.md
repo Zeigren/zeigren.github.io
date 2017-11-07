@@ -58,7 +58,7 @@ You don't need to use the pin from a jumper wire, any other small pin like thing
 #### Tristate on NOR consoles
 If your console is a NAND console you can skip this. If it's a NOR you'll need it.
 
-For NOR consoles you have to solder a wire from Trisate on the clip edition to Tristate on the PS3 motherboard. Here are some pictures of the Tristate locations for different boards.
+For NOR consoles you have to solder a wire from Tristate on the clip edition to Tristate on the PS3 motherboard. Here are some pictures of the Tristate locations for different boards.
 
 #### DIA-001/DIA-002
 ![DIA-001_BOTTOM](/assets/img/DIA-001_BOTTOM.jpg){:class="img-responsive"}
@@ -77,7 +77,7 @@ For NOR consoles you have to solder a wire from Trisate on the clip edition to T
 ![JSD-001_NOR](/assets/img/JSD-001_NOR.png){:class="img-responsive"}
 
 
-I recommened soldering a wire to Tristate on the PS3 and taping it down, then only connect it to the Clip Edition once you have everything else set up and your clip in place.
+I recommend soldering a wire to Tristate on the PS3 and taping it down, then only connect it to the Clip Edition once you have everything else set up and your clip in place.
 ![TRISTATE](/assets/img/TRISTATE.jpg){:class="img-responsive"}
 
 ### Power
@@ -111,13 +111,13 @@ I would recommend making a folder for your raw dumps, and another folder to copy
 That way your original dumps don't get messed up if you need them later.
 
 
-You will also want PS3dumpchecker and other checkers. To check your NAND/NOR.
+You will also want PS3DumpChecker and other checkers. To check your NAND/NOR.
 
 
-Flowrebuilder to put NANDs together.
+FlowRebuilder to put NANDs together.
 
 
-The FSM, NOFSM files. OFW and CFW stuff. Whatever other stuff you need.
+The FSM files. OFW and CFW stuff. Whatever other stuff you need.
 
 Here's what my folder looks like.
 ![PS3FOLDER](/assets/img/PS3FOLDER.PNG){:class="img-responsive"}

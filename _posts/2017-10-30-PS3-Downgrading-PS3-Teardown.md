@@ -26,7 +26,7 @@ Since there are so many different motherboard revisions there are a lot of place
 
 Here is a list of all the different motherboard revisions on [psdevwiki.com](http://www.psdevwiki.com/ps3/Motherboard_Revisions).
 
-I've taken pictures of the downgradeable motherboards from there, and annotated them with their NAND/NOR locations.
+I've taken pictures of the downgradable motherboards from there, and annotated them with their NAND/NOR locations.
 
 ## COK - 001
 ![COK-001_BOTTOM](/assets/img/COK-001_BOTTOM.jpg){:class="img-responsive"}
