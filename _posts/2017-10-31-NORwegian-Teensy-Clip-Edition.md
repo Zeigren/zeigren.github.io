@@ -13,7 +13,7 @@ comments: false
 
 ## A TSOP48 NAND and TSOP56 NOR Reader/Writer Using Clips
 ### Designed with PS3 Downgrading in Mind
-### $65.00 + Shipping - Currently out of Stock! I'll have more in stock in a few days, I just have to restock some of the connectors
+### $65.00 + Shipping - In Stock!
 #### Can take a couple days to ship, I'm putting these together as they're ordered right now
 
 <button type="button" class="snipcart-add-item"
@@ -28,7 +28,7 @@ comments: false
 
 #### Payments go through PayPal, feel free to check my [eBay Seller Feedback](https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=zeigren&ftab=FeedbackAsSeller&searchInterval=30)
 
-### Have Me Put A Teensy++ 2.0 On It - $30.00 - Out of Stock until the Clip Edition is back in stock
+### Have Me Put A Teensy++ 2.0 On It - $30.00
 #### Might take up a week to ship, I don't keep Teensy's in stock so I have to order one
 
 <button type="button" class="snipcart-add-item"
