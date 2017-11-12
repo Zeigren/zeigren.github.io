@@ -73,5 +73,5 @@ It also has a built in 5v to 3.3v voltage regulator, so all you need is a 5v 2Am
 * A computer
 * 2 Amp phone charger
 
-If you ordered it without the Teensy++ 2.0 installed it will look like this, except with headers and a switch installed.
+If you ordered it without the Teensy++ 2.0 installed it will look like this.
 ![NTCETOPMIN](/assets/img/NTCETOPMIN.jpg){:class="img-responsive"}
