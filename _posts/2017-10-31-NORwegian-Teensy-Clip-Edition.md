@@ -14,7 +14,7 @@ comments: false
 ## A TSOP48 NAND and TSOP56 NOR Reader/Writer Using Clips
 ### Designed with PS3 Downgrading in Mind
 ### $65.00 + Shipping - In Stock!
-#### Can take a couple days to ship, I'm putting these together as they're ordered right now
+#### Can take a couple days to ship, I'm putting these together as they're ordered right now, [countries I ship to]({{ "/Shipping-Info/" | relative_url}})
 
 <button type="button" class="snipcart-add-item"
  data-item-name="NORwegian Teensy Clip Edition"
