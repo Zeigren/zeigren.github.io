@@ -28,8 +28,10 @@ layout: compress
                     <a class="btn zoombtn" href="{{site.url}}/hardware/">
                     {% else if page.guide %}
                     <a class="btn zoombtn" href="{{site.url}}/guides/">
-                    {% else %}
+                    {% else if page.info %}
                     <a class="btn zoombtn" href="{{site.url}}/info/">
+                        {% else page.info %}
+                        <a class="btn zoombtn" href="{{site.url}}/info/">
                     {% endif %}
                         <i class="fa fa-chevron-left"></i>
                     </a>

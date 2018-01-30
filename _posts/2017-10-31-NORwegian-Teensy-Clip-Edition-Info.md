@@ -2,6 +2,7 @@
 layout: post
 title:  "NORwegian Teensy Clip Edition Info"
 excerpt: "More info about the board"
+info: true
 tag:
 - NORwegian Teensy Clip Edition
 - PS3 Downgrade

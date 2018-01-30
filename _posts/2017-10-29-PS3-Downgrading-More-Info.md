@@ -2,6 +2,7 @@
 layout: post
 title:  "PS3 Downgrading More Info"
 excerpt: "Additional Resources for Downgrading"
+info: true
 tag:
 - Guide
 - PS3 Downgrade

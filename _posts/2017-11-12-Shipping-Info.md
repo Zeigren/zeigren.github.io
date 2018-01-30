@@ -2,6 +2,7 @@
 layout: post
 title:  "Shipping Info"
 excerpt: "Countries I Ship To"
+info: true
 tag:
 - More Info
 comments: false

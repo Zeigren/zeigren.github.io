@@ -27,7 +27,10 @@ sass:
 api_key: MGNhMWYyNWQtZjcyMy00MWRkLThjZTctNGUxY2JiNDZhZDU1NjM2NDQ5NDg1MTMzMjQzODky
 #baseurl: "/zeigren"
 # Comments
-#disqus_shortname:   taylantatli
+#disqus_shortname:
+
+# Google Analytics
+google_analytics: UA—113326012-1
 
 # Social
 # if you don't have any of social below, comment the line.

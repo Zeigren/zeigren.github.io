@@ -2,6 +2,7 @@
 layout: post
 title:  "NORwegian Teensy Socket Edition Board Info"
 excerpt: "More information about the board itself"
+info: true
 tag:
 - NORwegian Teensy Socket Edition 
 - PS3 Downgrade
