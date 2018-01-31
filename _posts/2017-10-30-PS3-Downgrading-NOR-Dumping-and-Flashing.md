@@ -2,7 +2,7 @@
 layout: post
 title:  "PS3 Downgrading NOR Dumping and Flashing"
 excerpt: "Dumping, Verifying, Patching, and Flashing NOR consoles"
-guide: true
+ps3guide: true
 tag:
 - Guide
 - PS3 Downgrade

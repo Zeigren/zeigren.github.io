@@ -2,7 +2,7 @@
 layout: post
 title:  "PS3 Downgrading Final Steps"
 excerpt: "You're Almost Done!"
-guide: true
+ps3guide: true
 tag:
 - PS3 Downgrade
 - Guide

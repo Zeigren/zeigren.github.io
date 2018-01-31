@@ -2,7 +2,7 @@
 layout: post
 title:  "PS3 Downgrading Getting Started"
 excerpt: "The hardware and software you'll need to downgrade"
-guide: true
+ps3guide: true
 tag:
 - Guide
 - PS3 Downgrade
@@ -17,6 +17,25 @@ I and many others have tried to make this as easy and foolproof as possible, but
 
 
 # Hardware
+
+## Hedgehog1286
+
+I've only somewhat updated these guides for the Hedgehog1286, but it's going to be pretty similar to the clip edition or socket edition guides. So you can follow those for the most part.
+
+The main differences are: 
+* No need for a Teensy++ 2.0
+* No Switch Needed To Change Between NAND or NOR
+* Make Sure The Power Switch Is Set To 3.3v
+* NORway and NANDway hex files need to be flashed to the Hedgehog1286 using DFUGUI
+
+You will need
+* A Hedgehog1286
+* Whatever Hedgehog1286 Expansion You Want To Use
+* A 5v 2 Amp USB power adapter (USB phone charger)
+* A microUSB cable to power the Hedgehog1286
+* A microUSB cable to connect the Hedgehog1286 to your computer
+
+ 
 ## Clip Edition
 ![NTCEGLAMOUR](/assets/img/NTCEGLAMOUR.jpg){:class="img-responsive"}
 You will need
@@ -101,6 +120,8 @@ You can find it on places like eBay, AliExpress, and various modchip/modding web
 To make it easy I made a zip file with the exact folder structure I use, and with all the files you need inside of it.
 
 You can [download it here](https://mega.nz/#!ovIEhS5D!Eke5679s1qnOJEv8Bs3BSBIGjsHzn5Zzmj0-w6hrAk4)
+
+If you're using the Hedgehog1286 you also need [DFUGUI](https://github.com/Zeigren/DFUGUI/releases)
 
 This is where I got all those programs, so you can check there for updates in the future and if you want to download all the files yourself.
 

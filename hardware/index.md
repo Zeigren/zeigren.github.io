@@ -1,6 +1,6 @@
 ---
 layout: hardware
-title: All Hardware
-excerpt: "List of Hardware"
+title: Hardware
+excerpt: "A List Of Hardware I've Made"
 comments: false
 ---

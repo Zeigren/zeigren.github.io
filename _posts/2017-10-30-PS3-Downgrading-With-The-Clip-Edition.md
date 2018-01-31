@@ -2,7 +2,7 @@
 layout: post
 title:  "PS3 Downgrading With The Clip Edition"
 excerpt: "Using the Clip Edition to Downgrade"
-guide: true
+ps3guide: true
 tag:
 - Guide
 - PS3 Downgrade

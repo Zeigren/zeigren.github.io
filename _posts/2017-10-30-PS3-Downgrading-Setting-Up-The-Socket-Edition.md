@@ -2,7 +2,7 @@
 layout: post
 title:  "PS3 Downgrading Setting Up The Socket Edition"
 excerpt: "Setting up the hardware and software for the Socket Edition"
-guide: true
+ps3guide: true
 tag:
 - Guide
 - PS3 Downgrade

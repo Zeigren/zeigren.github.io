@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: info
 title: Info
 excerpt: "Info about the NORwegian Teensy"
 comments: false

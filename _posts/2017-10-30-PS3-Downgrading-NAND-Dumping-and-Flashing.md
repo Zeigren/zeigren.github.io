@@ -2,7 +2,7 @@
 layout: post
 title:  "PS3 Downgrading NAND Dumping and Flashing"
 excerpt: "Dumping, Verifying, Patching, and Flashing NAND consoles"
-guide: true
+ps3guide: true
 tag:
 - Guide
 - PS3 Downgrade

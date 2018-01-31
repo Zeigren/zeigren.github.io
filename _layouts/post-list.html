@@ -26,13 +26,20 @@ layout: compress
                         {% if post.hardware == null %}
                         {% if post.guide == null %}
                         {% if post.info == null %}
+                        {% if post.ps3guide == null %}
+                        {% if post.software == null %}
+                        {% if post.hedgehogguide == null %}
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li class="wow fadeInLeft" data-wow-duration="0s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
+                        {% endif %}
+                        {% endif %}
+                        {% endif %}
+                        {% endif %}
                         {% endif %}
                         {% endif %}
                     {% endfor %}

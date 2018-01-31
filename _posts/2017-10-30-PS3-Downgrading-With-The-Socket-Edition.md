@@ -2,7 +2,7 @@
 layout: post
 title:  "PS3 Downgrading With The Socket Edition"
 excerpt: "Using the Socket Edition to Downgrade"
-guide: true
+ps3guide: true
 tag:
 - Guide
 - PS3 Downgrade

@@ -26,12 +26,24 @@ layout: compress
                     {% endif %}
                     {% if page.hardware %}
                     <a class="btn zoombtn" href="{{site.url}}/hardware/">
-                    {% else if page.guide %}
-                    <a class="btn zoombtn" href="{{site.url}}/guides/">
-                    {% else if page.info %}
+                    {% endif %}
+                    {% if page.info %}
                     <a class="btn zoombtn" href="{{site.url}}/info/">
-                        {% else page.info %}
-                        <a class="btn zoombtn" href="{{site.url}}/info/">
+                    {% endif %}
+                    {% if page.guide %}
+                    <a class="btn zoombtn" href="{{site.url}}/guides/">      
+                    {% endif %}
+                    {% if page.software %}
+                    <a class="btn zoombtn" href="{{site.url}}/software/">      
+                    {% endif %}
+                    {% if page.ps3guide %}
+                    <a class="btn zoombtn" href="{{site.url}}/PS3-Downgrading-Index/">      
+                    {% endif %}
+                    {% if page.news %}
+                    <a class="btn zoombtn" href="{{site.url}}/news/">      
+                    {% endif %}
+                    {% if page.hedgehogguide %}
+                    <a class="btn zoombtn" href="{{site.url}}/Hedgehog1286-Guide-Index/">      
                     {% endif %}
                         <i class="fa fa-chevron-left"></i>
                     </a>

@@ -2,7 +2,7 @@
 layout: post
 title:  "PS3 Downgrading PS3 Teardown"
 excerpt: "Taking Apart Your PS3"
-guide: true
+ps3guide: true
 tag:
 - Guide
 - PS3 Downgrade

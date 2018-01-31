@@ -2,7 +2,7 @@
 layout: post
 title:  "PS3 Downgrading Basics"
 excerpt: "What you need to know before you start downgrading"
-guide: true
+ps3guide: true
 tag:
 - Guide
 - PS3 Downgrade

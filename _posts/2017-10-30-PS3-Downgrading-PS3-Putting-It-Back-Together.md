@@ -2,7 +2,7 @@
 layout: post
 title:  "PS3 Downgrading Putting Your PS3 Back Together"
 excerpt: "What the title says."
-guide: true
+ps3guide: true
 tag:
 - Guide
 - PS3 Downgrade

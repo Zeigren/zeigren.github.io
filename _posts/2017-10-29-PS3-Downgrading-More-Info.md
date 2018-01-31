@@ -43,4 +43,4 @@ comments: false
 
 
 
-Feel free to take any of this guide and redistribute/repost it.
+Feel free to take any of the PS3 guides and redistribute/repost them.

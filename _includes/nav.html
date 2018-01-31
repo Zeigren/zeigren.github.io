@@ -1,7 +1,12 @@
 	<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 		<button class="dl-trigger">Open Menu</button>
 		<ul class="dl-menu">
-			<li><a href="{{ site.url }}/">Home</a></li>
+            <li><a href="{{ site.url }}/">Home</a></li>
+            <li><a href="{{ site.url }}/hardware">Hardware</a></li>
+            <li><a href="{{ site.url }}/software">Software</a></li>
+            <li><a href="{{ site.url }}/guides">Guides</a></li>
+            <li><a href="{{ site.url }}/info">Info</a></li>
+            <li><a href="{{ site.url }}/news">News</a></li>
 			<li>
 				<a href="#">About</a>
 				<ul class="dl-submenu">
@@ -84,44 +89,7 @@
                         <a href="https://news.ycombinator.com/user?id={{ site.hackernews }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-hacker-news"></i> Hacker News</a>
                     </li>{% endif %}
 				</ul><!-- /.dl-submenu -->
-            </li>
-            <li>
-                <a href="#">Hardware</a>
-				<ul class="dl-submenu">
-					<li><a href="{{ site.url }}/hardware/">All Hardware</a></li>
-                    <li><a href="{{ site.url }}/NORwegian-Teensy-Socket-Edition/">NORwegian Teensy Socket Edition</a></li>
-                    <li><a href="{{ site.url }}/NORwegian-Teensy-Clip-Edition/">NORwegian Teensy Clip Edition</a></li>
-				</ul>
-            </li>
-			<li>
-				<a href="#">Info</a>
-				<ul class="dl-submenu">
-                    <li><a href="{{ site.url }}/info/">All Info</a></li>
-                    <li><a href="{{ site.url }}/NORwegian-Teensy-Clip-Edition-Info/">NORwegian Teensy Clip Edition Info</a></li>
-                    <li><a href="{{ site.url }}/NORwegian-Teensy-Socket-Edition-Info/">NORwegian Teensy Socket Edition Info</a></li>
-                    <li><a href="{{ site.url }}/tags/">Tags</a></li> 
-                </ul>
-            </li>
-            <li>
-                <a href="#">Guides</a>
-				<ul class="dl-submenu">
-                    <li><a href="{{ site.url }}/guides/">All Guides</a></li>
-					<li><a href="{{ site.url }}/PS3-Downgrading-Basics/">PS3 Downgrading Basics</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-Getting-Started/">Getting Started</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-Setting-Up-The-Clip-Edition/">Setting Up The Clip Edition</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-Setting-Up-The-Socket-Edition/">Setting Up The Socket Edition</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-PS3-Teardown/">PS3 Teardown</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-With-The-Clip-Edition/">Downgrading With The Clip Edition</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-With-The-Socket-Edition/">Downgrading With The Socket Edition</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-NOR-Dumping-and-Flashing/">NOR Dumping and Flashing</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-NAND-Dumping-and-Flashing/">NAND Dumping and Flashing</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-PS3-Putting-It-Back-Together/">Putting Your PS3 Back Together</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-Final-Steps/">Downgrading Final Steps</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-More-Info/">PS3 Downgrading More Info</a></li>
-                    <li><a href="{{ site.url }}/PS3-Downgrading-Troubleshooting/">PS3 Downgrading Troubleshooting</a></li>
-				</ul>
-            </li>
-          
+            </li>          
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}
