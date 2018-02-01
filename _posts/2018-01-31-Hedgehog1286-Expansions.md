@@ -8,44 +8,93 @@ tag:
 - Expansions
 comments: false
 ---
+## More info on all the [Hedgehog1286 Expansions]({{ "/Hedgehog1286-Expansions-Info/" | relative_url}})
+### Payments go through PayPal, feel free to check my [eBay Seller Feedback](https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=zeigren&ftab=FeedbackAsSeller&searchInterval=30)
+### [Shipping Info]({{ "/Shipping-Info/" | relative_url}})
 
-![NORwegianTeensySocketEdition](/assets/img/NORwegianTeensySocketGlamour.jpg){:class="img-responsive"}
+---
 
-## A TSOP48 NAND and TSOP56 NOR Reader/Writer Using ZIF Sockets
-### Designed with PS3 Downgrading in Mind
-### Out of Stock
-### E-mail me if you would like to be notified when they are back in stock.
-
+# Hedgehog1286 E3 NOR Expansion
 <button type="button" class="snipcart-add-item"
- data-item-name="Hedgehog1286 Expansions"
+ data-item-name="Hedgehog1286 E3 NOR Expansion"
  data-item-price="35.00"
  data-item-weight="400"
  data-item-id="05"
  data-item-image="https://i.imgur.com/l9xtGk4.jpg"
- data-item-url="https://zeigren.github.io/NORwegian-Teensy-Socket-Edition/">
-  Add to cart
+ data-item-url="https://zeigren.github.io/Hedgehog1286-Expansions/">
+  Add Hedgehog1286 E3 NOR Expansion to cart
 </button>
-#### Payments go through PayPal, feel free to check my [eBay Seller Feedback](https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=zeigren&ftab=FeedbackAsSeller&searchInterval=30)
-Comes installed with:
-* TSOP48 ZIF Socket for NANDs
-* TSOP56 ZIF Socket for NORs
-* 2x 0.1uF decoupling capacitors for each socket (4 in total)
-* 4.7k Ohm Resistor for WP (NOR Socket)
-* Your choice of either pin headers or a screw terminal block for external power
+### $55.00 + Shipping
 
-Requires:
-* Teensy++ 2.0
-* External 3.3V DC Power Supply
+The Hedgehog1286 E3 NOR Expansion allows the E3 Clip to be used with the Hedgehog1286 in order to read/write TSOP 56 NORs.
 
-The NORwegian Teensy Socket Edition requires desoldering the NOR or NAND from your system and placing it into one of the appropriate sockets. This is great if you have a NAND/NOR that is especially problematic, or if you're tired of dealing with crappy clips.
+---
 
-If you're not comfortable with desoldering TSOP packages check out the the NORwegian Teensy Clip Edition.
+# Hedgehog1286 NAND Expansion
+<button type="button" class="snipcart-add-item"
+ data-item-name="Hedgehog1286 NAND Expansion"
+ data-item-price="35.00"
+ data-item-weight="400"
+ data-item-id="06"
+ data-item-image="https://i.imgur.com/l9xtGk4.jpg"
+ data-item-url="https://zeigren.github.io/Hedgehog1286-Expansions/">
+  Add Hedgehog1286 NAND Expansion to cart
+</button>
+### $55.00 + Shipping
 
-The NORwegian Teensy Socket Edition does not come with a Teensy++ 2.0 installed. If you order one this is what it will look like + your choice of either headers or a terminal block.
+The Hedgehog1286 NAND Expansion allows either the E3 Clip or the NAND 48 PIN UNI clip to be used with the Hedgehog1286 in order to read/write TSOP 48 NANDs.
 
-![NORwegianTeensySocketEditionTop](/assets/img/NORwegianTeensySocketEditionTop.jpg){:class="img-responsive"}
-![NORwegianTeensySocketEditionTop](/assets/img/NORwegianTeensySocketEditionBottom.jpg){:class="img-responsive"}
+---
 
+# Hedgehog1286 NOR UNI Expansion
+<button type="button" class="snipcart-add-item"
+ data-item-name="Hedgehog1286 NOR UNI Expansion"
+ data-item-price="35.00"
+ data-item-weight="400"
+ data-item-id="07"
+ data-item-image="https://i.imgur.com/l9xtGk4.jpg"
+ data-item-url="https://zeigren.github.io/Hedgehog1286-Expansions/">
+  Add Hedgehog1286 NOR UNI Expansion to cart
+</button>
+### $55.00 + Shipping
+
+The Hedgehog1286 NOR UNI Expansion allows the NOR 56 PIN UNI clip to be used with the Hedgehog1286 in order to read/write TSOP 56 NORs.
+
+---
+
+# Hedgehog1286 TSOP NAND Expansion
+<button type="button" class="snipcart-add-item"
+ data-item-name="Hedgehog1286 TSOP NAND Expansion"
+ data-item-price="35.00"
+ data-item-weight="400"
+ data-item-id="08"
+ data-item-image="https://i.imgur.com/l9xtGk4.jpg"
+ data-item-url="https://zeigren.github.io/Hedgehog1286-Expansions/">
+  Add Hedgehog1286 TSOP NAND Expansion to cart
+</button>
+### $55.00 + Shipping
+
+The Hedgehog1286 TSOP NAND Expansion allows either the 32 pin 360 clip or a TSOP 48 socket to be used with the Hedgehog1286 in order to read/write TSOP 48 NANDs. The TSOP 48 socket must be purchased separately from somewhere like eBay or AliExpress.
+
+---
+
+# Hedgehog1286 TSOP NOR Expansion
+<button type="button" class="snipcart-add-item"
+ data-item-name="Hedgehog1286 TSOP NOR Expansion"
+ data-item-price="35.00"
+ data-item-weight="400"
+ data-item-id="09"
+ data-item-image="https://i.imgur.com/l9xtGk4.jpg"
+ data-item-url="https://zeigren.github.io/Hedgehog1286-Expansions/">
+  Add Hedgehog1286 TSOP NOR Expansion to cart
+</button>
+### $55.00 + Shipping
+
+The Hedgehog1286 TSOP NOR Expansion allows a TSOP 56 socket to be used with the Hedgehog1286 in order to read/write TSOP 56 NORs. The TSOP 56 socket must be purchased separately from somewhere like eBay or AliExpress.
+
+---
+
+Have any questions or just want to talk about the Hedgehog1286? Head on over to the [Riot.im](https://riot.im) room at [#hedgehog1286:matrix.org](https://riot.im/app/#/room/#hedgehog1286:matrix.org). Or you can of course e-mail me or leave a comment on the forum thread of your choice.
 
 
 
