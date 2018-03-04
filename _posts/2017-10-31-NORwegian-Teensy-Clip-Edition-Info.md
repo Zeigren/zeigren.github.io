@@ -23,7 +23,6 @@ It also has a built in 5v to 3.3v voltage regulator, so all you need is a 5v 2Am
 * Read/write NANDs with the NOR UNI Clip (56 pin)
 * Read/write NORs with the NOR UNI Clip (56 pin)
 * Can be powered over microUSB with a 2 amp phone charger, no external power supply needed
-* Uses an L-C power filter as well as dedicated decoupling capacitors for each clip to provide clean and stable power
 * Utilizes the Teensy++ 2.0 in conjunction with judges NORway and NANDway Signal Booster Edition software to read/write NORs and NANDs
 * Has 3.3v power output headers
 
@@ -59,8 +58,6 @@ If you don't have a regulator on your Teensy++ 2.0 you need to cut the trace bet
 You then need to make a solder bridge with the 3.3v pad like so. Now when you put the Teensy++ 2.0 on the NORwegian Teensy Clip Edition you can connect the 5v pin.
 
 # Detailed Board Info
-
-You can get the schematics, BOM, and Gerber files on [GitHub](put link here)
 
 NOR uses this pinout
 

@@ -38,8 +38,6 @@ An external 3.3V DC power supply is usually required for reading and writing NOR
 
 # Detailed Board Info
 
-You can get the schematics (not super great, sorry), BOM, and Gerber files on [GitHub](put link here)
-
 NOR uses this pinout
 
 ![](https://i.imgur.com/Zx64QzN.gif){:class="img-responsive"}

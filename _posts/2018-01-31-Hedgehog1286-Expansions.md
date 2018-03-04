@@ -14,83 +14,48 @@ comments: false
 
 ---
 
+![Hedgehog1286 E3 NOR](/assets/img/HH1286/HHE3NORTOP.jpg){:class="img-responsive"}
 # Hedgehog1286 E3 NOR Expansion
-<button type="button" class="snipcart-add-item"
- data-item-name="Hedgehog1286 E3 NOR Expansion"
- data-item-price="35.00"
- data-item-weight="400"
- data-item-id="05"
- data-item-image="https://i.imgur.com/l9xtGk4.jpg"
- data-item-url="https://zeigren.github.io/Hedgehog1286-Expansions/">
-  Add Hedgehog1286 E3 NOR Expansion to cart
-</button>
-### $55.00 + Shipping
+### $15.00 + Shipping
+#### Currently Not For Sale
 
 The Hedgehog1286 E3 NOR Expansion allows the E3 Clip to be used with the Hedgehog1286 in order to read/write TSOP 56 NORs.
 
 ---
 
+![Hedgehog1286 NAND](/assets/img/HH1286/HHNANDTOP.jpg){:class="img-responsive"}
 # Hedgehog1286 NAND Expansion
-<button type="button" class="snipcart-add-item"
- data-item-name="Hedgehog1286 NAND Expansion"
- data-item-price="35.00"
- data-item-weight="400"
- data-item-id="06"
- data-item-image="https://i.imgur.com/l9xtGk4.jpg"
- data-item-url="https://zeigren.github.io/Hedgehog1286-Expansions/">
-  Add Hedgehog1286 NAND Expansion to cart
-</button>
-### $55.00 + Shipping
+### $18.00 + Shipping
+#### Currently Not For Sale
 
 The Hedgehog1286 NAND Expansion allows either the E3 Clip or the NAND 48 PIN UNI clip to be used with the Hedgehog1286 in order to read/write TSOP 48 NANDs.
 
 ---
 
+![Hedgehog1286 NOR UNI](/assets/img/HH1286/HHNORUNITOP.jpg){:class="img-responsive"}
 # Hedgehog1286 NOR UNI Expansion
-<button type="button" class="snipcart-add-item"
- data-item-name="Hedgehog1286 NOR UNI Expansion"
- data-item-price="35.00"
- data-item-weight="400"
- data-item-id="07"
- data-item-image="https://i.imgur.com/l9xtGk4.jpg"
- data-item-url="https://zeigren.github.io/Hedgehog1286-Expansions/">
-  Add Hedgehog1286 NOR UNI Expansion to cart
-</button>
-### $55.00 + Shipping
+### $12.00 + Shipping
+#### Currently Not For Sale
 
 The Hedgehog1286 NOR UNI Expansion allows the NOR 56 PIN UNI clip to be used with the Hedgehog1286 in order to read/write TSOP 56 NORs.
 
 ---
 
+![Hedgehog1286 TSOP NAND](/assets/img/HH1286/HHTSOPNANDTOP.jpg){:class="img-responsive"}
 # Hedgehog1286 TSOP NAND Expansion
-<button type="button" class="snipcart-add-item"
- data-item-name="Hedgehog1286 TSOP NAND Expansion"
- data-item-price="35.00"
- data-item-weight="400"
- data-item-id="08"
- data-item-image="https://i.imgur.com/l9xtGk4.jpg"
- data-item-url="https://zeigren.github.io/Hedgehog1286-Expansions/">
-  Add Hedgehog1286 TSOP NAND Expansion to cart
-</button>
-### $55.00 + Shipping
+### $12.00 + Shipping
+#### Currently Not For Sale
 
-The Hedgehog1286 TSOP NAND Expansion allows either the 32 pin 360 clip or a TSOP 48 socket to be used with the Hedgehog1286 in order to read/write TSOP 48 NANDs. The TSOP 48 socket must be purchased separately from somewhere like eBay or AliExpress.
+The Hedgehog1286 TSOP NAND Expansion allows either the 32 pin 360 clip or a TSOP 48 socket to be used with the Hedgehog1286 in order to read/write TSOP 48 NANDs. It does not come with the TSOP 48 socket, you can purchase one from eBay or AliExpress and install it.
 
 ---
 
+![Hedgehog1286 TSOP NOR](/assets/img/HH1286/HHTSOPNORTOP.jpg){:class="img-responsive"}
 # Hedgehog1286 TSOP NOR Expansion
-<button type="button" class="snipcart-add-item"
- data-item-name="Hedgehog1286 TSOP NOR Expansion"
- data-item-price="35.00"
- data-item-weight="400"
- data-item-id="09"
- data-item-image="https://i.imgur.com/l9xtGk4.jpg"
- data-item-url="https://zeigren.github.io/Hedgehog1286-Expansions/">
-  Add Hedgehog1286 TSOP NOR Expansion to cart
-</button>
-### $55.00 + Shipping
+### $8.00 + Shipping
+#### Currently Not For Sale
 
-The Hedgehog1286 TSOP NOR Expansion allows a TSOP 56 socket to be used with the Hedgehog1286 in order to read/write TSOP 56 NORs. The TSOP 56 socket must be purchased separately from somewhere like eBay or AliExpress.
+The Hedgehog1286 TSOP NOR Expansion allows a TSOP 56 socket to be used with the Hedgehog1286 in order to read/write TSOP 56 NORs. It does not come with the TSOP 56 socket, you can purchase one from eBay or AliExpress and install it.
 
 ---
 

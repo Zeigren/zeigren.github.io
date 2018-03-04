@@ -23,7 +23,7 @@ You'll of course need the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
 Now you can program for the Hedgehog1286 as if it were an Arduino (for the most part).
 
-The pins have the same names as on the Teensy++ 2.0 which you can see [here](https://www.pjrc.com/teensy/pinout.html),you'll have to scroll down a bit. I'll make my own chart at some point.
+The pins have the same names as on the Teensy++ 2.0 which you can see [here](https://www.pjrc.com/teensy/pinout.html), you'll have to scroll down a bit. I'll make my own chart at some point.
 
 The only thing that's different is you won't be able to flash the Hedgehog1286 directly from the Arduino IDE. You will have to compile your sketch as a .hex file and then flash it using one of the methods on the [Flashing The Hedgehog1286 page.]({{ "/Flashing-The-Hedgehog1286/" | relative_url}})
 
