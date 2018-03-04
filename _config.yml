@@ -67,12 +67,6 @@ ebay: zeigren
 #xmpp:              username@server.com
 #hackernews:        username
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA—113326012-1          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-
-
 # Gems
 plugins:
   - jekyll-mentions
@@ -83,6 +77,11 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-113326012-1      # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
