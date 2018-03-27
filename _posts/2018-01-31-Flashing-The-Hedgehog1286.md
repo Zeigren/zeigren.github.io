@@ -10,11 +10,13 @@ tag:
 comments: false
 ---
 # Flashing The Hedgehog1286
+
 In order to flash a .hex file to the Hedgehog 1286 you have a couple of different options. You can use dfu-programmer directly, or DFUGUI on Windows. You can also use Atmel's FLIP program or just use Atmel Studio.
 
 ---
 
 # DFUGUI
+
 The [DFUGUI](https://github.com/Zeigren/DFUGUI) GitHub page.
 
 * Grab the latest release, and launch DFUGUI.exe
@@ -28,6 +30,7 @@ The [DFUGUI](https://github.com/Zeigren/DFUGUI) GitHub page.
 ---
 
 # Atmel Studio
+
 You should be able to just choose the at90usb1286 as your target and build and flash the code directly from Atmel Studio.
 
 # [Troubleshooting]({{ "/Hedgehog1286-Troubleshooting/" | relative_url}})

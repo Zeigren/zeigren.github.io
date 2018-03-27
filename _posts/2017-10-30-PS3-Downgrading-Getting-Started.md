@@ -9,6 +9,7 @@ tag:
 comments: false
 ---
 # Getting Started
+
 Please read the entire guide before you actually start (**all of it**, yes I know it's long). 
 That way you know what you're getting into and what things you might need for your particular setup.
 
@@ -22,23 +23,26 @@ I and many others have tried to make this as easy and foolproof as possible, but
 
 I've only somewhat updated these guides for the Hedgehog1286, but it's going to be pretty similar to the clip edition or socket edition guides. So you can follow those for the most part.
 
-The main differences are: 
+The main differences are:
+
 * No need for a Teensy++ 2.0
 * No Switch Needed To Change Between NAND or NOR
 * Make Sure The Power Switch Is Set To 3.3v
 * NORway and NANDway hex files need to be flashed to the Hedgehog1286 using DFUGUI
 
 You will need
+
 * A Hedgehog1286
 * Whatever Hedgehog1286 Expansion You Want To Use
 * A 5v 2 Amp USB power adapter (USB phone charger)
 * A microUSB cable to power the Hedgehog1286
 * A microUSB cable to connect the Hedgehog1286 to your computer
 
- 
 ## Clip Edition
+
 ![NTCEGLAMOUR](/assets/img/NTCEGLAMOUR.jpg){:class="img-responsive"}
 You will need
+
 * A NORwegian Teensy Clip Edition
 * A Teensy++ 2.0
 * A 5v 2Amp USB power adapter (USB phone charger)
@@ -53,17 +57,19 @@ You will need
 * Solder
 * Flux
 * Thermal Paste
-* Screwdrivers 
+* Screwdrivers
 * Paper towels, Q-Tips
 * Isopropyl Alcohol
 * A multimeter, any cheap one will do
 
 ### All The Clips
+
 As you know the Clip Edition supports every clip, at least every clip I know of. It also lets you use some of the clips in ways they were not designed.
 
 But which clip is right for you?
 
 #### E3 Flasher Clip / E3 Flasher NOR Clip Suit / E3 Clip Suit / E3 Flasher E3 NOR Flash Clip Cable
+
 ![E3CLIP](/assets/img/E3CLIP.jpg){:class="img-responsive"}
 You can use it for both **NORs** and **NANDs** on the Clip Edition. 
 
@@ -78,6 +84,7 @@ The Clip Edition makes it possible to use the E3 clip for NAND downgrading, but 
 You can find the E3 Clip on places like eBay, AliExpress, and various modchip/modding websites. You only need the clip itself, with it's cable still attached of course. Often times the clip is sold with an adapter board called the E3 Linker, you don't need it but there usually isn't much of a price difference in buying one with or without the E3 Linker.
 
 #### NOR UNI Clip (56 pin) / UNI 56 CLIP / 360 CLIP - 56
+
 ![56UNICLIP](/assets/img/56UNICLIP.jpg){:class="img-responsive"}
 It can be used for both NOR and NAND consoles.
 
@@ -90,6 +97,7 @@ Probably just as fiddly to use for NANDs as the E3 clip.
 You can find it on places like eBay, AliExpress, and various modchip/modding websites. You only need the clip itself with the cable. Often times the clip is sold with an adapter board, you don't need it but there usually isn't much of a price difference in buying one with or without the adapter board.
 
 #### NAND UNI Clip (48 pin) / UNI 48 CLIP (360 Clip)
+
 ![48UNITOP](/assets/img/48UNITOP.jpg){:class="img-responsive"}
 Just for NAND consoles.
 
@@ -100,6 +108,7 @@ Easier to use for NANDs, since it's made to do that.
 You can find it on places like eBay, AliExpress, and various modchip/modding websites. You only need the clip itself with the cable. Often times the clip is sold with an adapter board, you don't need it but there usually isn't much of a price difference in buying one with or without the adapter board.
 
 #### NAND 360 Clip (32 pin)
+
 ![360TOP](/assets/img/360TOP.jpg){:class="img-responsive"}
 The OG NAND clip. Just for NAND consoles.
 
@@ -110,13 +119,16 @@ Pretty much as good as the NAND UNI Clip, but it's easier to fiddle with since i
 You can find it on places like eBay, AliExpress, and various modchip/modding websites. You only need the clip itself with the cable. Often times the clip is sold with an adapter board, you don't need it but there usually isn't much of a price difference in buying one with or without the adapter board.
 
 ## Socket Edition
+
 ![NORwegianTeensySocketEdition](/assets/img/NORwegianTeensySocketGlamour.jpg){:class="img-responsive"}
+
 * A NORwegian Teensy Socket Edition
 * A Teensy++ 2.0
 * A External 3.3v power supply
 * Whatever soldering/hot air stuff you have to use to remove the NOR/NAND
 
 # Software
+
 To make it easy I made a zip file with the exact folder structure I use, and with all the files you need inside of it.
 
 You can [download it here](https://mega.nz/#!ovIEhS5D!Eke5679s1qnOJEv8Bs3BSBIGjsHzn5Zzmj0-w6hrAk4)
@@ -135,6 +147,7 @@ This is where I got all those programs, so you can check there for updates in th
 * [FlowRebuilder 5.2](http://www.ps3hax.net/showthread.php?t=95794)
 * [BwE Validator](http://psx-scene.com/forums/content/bwe-nor-validator-v1-30-3373/)
 * [Other Files I Just Took from Bailey's Guide](http://www.ps3hax.net/showthread.php?t=39766)
+
 I'll try to fill in the sources of those files later.
 
 # [Continue to Page 3 - PS3 Teardown]({{ "/PS3-Downgrading-PS3-Teardown/" | relative_url}})

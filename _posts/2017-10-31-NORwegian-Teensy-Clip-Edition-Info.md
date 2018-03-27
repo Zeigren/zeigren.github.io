@@ -18,6 +18,7 @@ It also has a built in 5v to 3.3v voltage regulator, so all you need is a 5v 2Am
 ## Features
 * **READ/WRITE NANDS WITH THE E3 NOR CLIP**
 * **Read/write NORs with the E3 NOR clip**
+
 * Read/write NANDs with the 360 clip (32 pin)
 * Read/write NANDs with the NAND UNI Clip (48 pin)
 * Read/write NANDs with the NOR UNI Clip (56 pin)
@@ -27,6 +28,7 @@ It also has a built in 5v to 3.3v voltage regulator, so all you need is a 5v 2Am
 * Has 3.3v power output headers
 
 ## On The Board:
+
 * 2x E3 connectors one for NANDs, one for NORs
 * 2x 60 pin connectors for NOR and NAND UNI clips
 * 32 pin connector for 32 pin 360 clips
@@ -39,6 +41,7 @@ It also has a built in 5v to 3.3v voltage regulator, so all you need is a 5v 2Am
 * Pin header to connect to Tristate (for NORs)
 
 ## Requires:
+
 * Teensy++ 2.0
 * Any clips you want to use with it
 * A computer
@@ -48,6 +51,7 @@ Without the Teensy++ 2.0 installed it looks like this.
 ![NTCETOPMIN](/assets/img/NTCETOPMIN.jpg){:class="img-responsive"}
 
 # Powering the NORwegian Teensy Clip Edition
+
 I recommend using a 5v 2amp USB phone charger with a microUSB cable to power it. But you could power it with an external power supply, just plug it into the 3.3v headers.
 
 The Teensy++ 2.0 can either be powered from the NORwegian Teensy Clip Edition or with a MCP1825 regulator on the Teensy++ 2.0 itself.
@@ -65,7 +69,7 @@ NOR uses this pinout
 
 Where possible there is a 0.1uF capacitor connected to pins 29+33 and 43+52. With some of the clips there is only one 0.1uF decoupling capacitor due to their design.
 
-NAND uses this pinout for NANDway SBE (Signal Booster Edition). 
+NAND uses this pinout for NANDway SBE (Signal Booster Edition).
 
 ![](https://i.imgur.com/hodHGCp.jpg)
 

@@ -18,7 +18,6 @@ comments: false
 * Errors when you try to verify after writing the NOR/NAND
 * Incredibly slow read/write speeds
 
-
 Most of the problems from using clips is from the clips not making a good connection with the NOR or NAND.
 
 Especially when using the clips made for NORs with NANDs, you need to make sure that the the top pins on the clips are making contact with the top pins on the NAND.
@@ -26,6 +25,7 @@ Especially when using the clips made for NORs with NANDs, you need to make sure 
 Poor clip connections will cause most of the problems with reading/writing to the NOR/NAND, as well as the majority of errors that you get when you check your dumps. So try these steps first and then repeatedly reseating the clips before moving on to the other sections.
 
 ### Things you can try
+
 * Make sure the clip is the right way, dot on clip matched up to dot on NOR/NAND
 * Clean the legs on the NOR/NAND with isopropyl alcohol
 * Use a needle or some other small pointy thing to push the pins on the clip further out, obviously be careful it's easy to mess up the pins
@@ -51,6 +51,7 @@ Power problems can cause most of the same issues as bad clip connections, just t
 If your Clip Edition has a high pitch whine, unplug both USB cables. There is a short between 3.3v and GND on the board. You can confirm this by checking for continuity using a multimeter between GND and 3.3v. Make sure the NAND/NOR switch isn't stuck somewhere between the two. Check if there are any debris stuck in between pins on the board, or around any capacitors.
 
 ### Things you can try
+
 * If you're using an external power supply it might be too noisy, I recommend powering the NORwegian Teensy Clip Edition over microUSB.
 * Check for 3.3v at the external power headers while the microUSB cable is plugged in. If you're not getting 3.2v to 3.4v there might be a problem with the onboard regulator, or the USB charger you're using.
 * Check if you're getting 5v from the USB charger. Use a multimeter and check between 'GND' and this side of the capacitor 'CIN'. You can use the outside of the USB port as 'GND', or any other 'GND' point on the board.
@@ -60,6 +61,7 @@ If your Clip Edition has a high pitch whine, unplug both USB cables. There is a 
 * If you're using a Teensy++ 2.0 that already has a voltage regulator on it make sure that the 5v hole/pin on the Teensy++ 2.0 is disconnected from the NORwegian Teensy Clip Edition
 
 ## Software Problems
+
 * WAY-launchers/NORway/NANDway can't find or connect to Teensy++ 2.0
 * Anti-Virus Software says WAY-launchers is a virus
 
@@ -72,6 +74,7 @@ Some AV software may say that WAY-launchers is a virus, this is just a false pos
 But all these .exe files are open source, and you can go on github and check them out for yourself if you don't think they're safe. One is the Teensy_Cli.exe, which it uses to flash the .hex files to the Teensy++ 2.0, this is made by PJRC the creators of the Teensy++ 2.0. The other one is called COMMANDS.EXE which it uses to control NORway.py and NANDway_SignalBoosterEdition.py, which actually do all the work of reading/writing to the NOR/NAND of the PS3. COMMANDS.EXE is actually just a batch script that was converted to an .exe, you can view the batch script on the WAY-launchers github page.
 
 ## Other Connectivity Problems
+
 * Unknown Chip Errors
 * Dumps not matching up in WAY-launchers
 * Getting lots of errors when you verify them in BwE or PS3DumpChecker
@@ -85,60 +88,60 @@ If you're still having problems this is the next step.
 
 Here's the pinout
 
-
 NOR | Teensy++ 2.0
 ---|---
-1	|Not Used
-2	|B6
-3	|PA7
-4	|PA6
-5	|PA5
-6	|PA4
-7	|PA3
-8	|PA2
-9	|PA1
-10	|PA0
-11	|B3
-12	|B4
-13	|E5
-14	|E4
-15	|B5
-16	|Not Used
-17	|E6
-18	|B2
-19	|B1
-20	|F7
-21	|F6
-22	|F5
-23	|F4
-24	|F3
-25	|F2
-26	|F1
-31	|F0
-32	|E0
-34	|E1
-35	|D0
-36	|C0
-37	|D1
-38	|C1
-39	|D2
-40	|C2
-41	|D3
-42	|C3
-44	|D4
-45	|C4
-46	|D5
-47	|C5
-48	|D6
-49	|C6
-50	|D7
-51	|C7
-53	|Not used
-54	|B0
+1|Not Used
+2|B6
+3|PA7
+4|PA6
+5|PA5
+6|PA4
+7|PA3
+8|PA2
+9|PA1
+10|PA0
+11|B3
+12|B4
+13|E5
+14|E4
+15|B5
+16|Not Used
+17|E6
+18|B2
+19|B1
+20|F7
+21|F6
+22|F5
+23|F4
+24|F3
+25|F2
+26|F1
+31|F0
+32|E0
+34|E1
+35|D0
+36|C0
+37|D1
+38|C1
+39|D2
+40|C2
+41|D3
+42|C3
+44|D4
+45|C4
+46|D5
+47|C5
+48|D6
+49|C6
+50|D7
+51|C7
+53|Not used
+54|B0
 
 If you're still having problems with dumping/checking/flashing your NOR/NAND. Google what problem you have, check the forums, and then post to a forum. There's a lot of forums out there and a lot of people who know this stuff so pick one you like.
 
 ## Hardware Problems
+
 * PS3 Won't Turn On After Flashing
 * YLOD
 * Blank Screen After Installing QA toggle
@@ -152,6 +155,7 @@ If you patched to CFW, and it's firmware is higher then the firmware you were on
 If you got a blank screen after installing QA toggle then you have to remarry your blu-ray drive. baileyscream has a section on it as part of his [Ultimate Foolproof Downgrade Guide](http://www.ps3hax.net/showthread.php?t=39766), it's under all the colorful text.
 
 ### Things You Can Try
+
 * Make sure it's plugged in and the power switch on it is in the ON position 
 * Make sure you connected everything right when you put it back together, power connectors are fully seated, ribbon connectors connected all the way, power supply seated fully, fan plugged in, CMOS battery plugged in, hard drive installed.
 * Make sure you didn't leave any bits of solder/wire/foreign objects in there.
@@ -160,6 +164,7 @@ If you got a blank screen after installing QA toggle then you have to remarry yo
 # Troubleshooting the NORwegian Teensy Socket Edition
 
 ## Unknown Chip
+
 If you get an unknown chip error this is usually because the socket isn't making good contact with the pins.
 
 * Check to make sure all the pins on the NAND or NOR are straight and evenly spaced
@@ -168,6 +173,7 @@ If you get an unknown chip error this is usually because the socket isn't making
 * Check Read Error section
 
 ## Read Errors / Dumps don't match
+
 If the chip is recognized but your dumps don't match up or have lots of errors I've found power problems to usually be the cause.
 
 * Make sure the 5v line on the Teensy is cut and that the 3.3V regulator on it is working (test for 3.3V at the 5V pin)

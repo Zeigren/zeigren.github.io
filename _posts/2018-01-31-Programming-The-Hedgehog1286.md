@@ -10,15 +10,17 @@ tag:
 comments: false
 ---
 # Programming For The Hedgehog1286
+
 Since the Hedgehog1286 is pretty much a Teensy++ 2.0 clone (for the most part) any Teensy++ 2.0 firmware should be compatible with it. The only exception is if you're using all the program space, the Teensy++ 2.0 has a much smaller bootloader (~0.5k) then the Hedgehog1286 (~4k). But considering that there is 128k of space it's probably not an issue for most cases.
 
 The Hedgehog1286 is also compatible with the Arduino IDE via Teensyduino, or you can of course write your code in Atmel Studio or some other way.
 
 When using the Hedgehog1286 with 3.3v you'll only want to run the at90usb1286 at 8MHz, if using 5v then go ahead and run it at 16MHz.
 
---- 
+---
 
 # Arduino IDE
+
 You'll of course need the [Arduino IDE](https://www.arduino.cc/en/Main/Software) and the [Teensyduino add-on](https://www.pjrc.com/teensy/teensyduino.html).
 
 Now you can program for the Hedgehog1286 as if it were an Arduino (for the most part).
@@ -30,6 +32,7 @@ The only thing that's different is you won't be able to flash the Hedgehog1286 d
 ---
 
 # Atmel Studio
+
 You can of course program for the Hedgehog1286 using Atmel Studio. Just set it up for the at90usb1286 and you're good to go.
 
 ---

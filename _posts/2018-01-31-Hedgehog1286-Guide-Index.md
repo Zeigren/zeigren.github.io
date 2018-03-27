@@ -11,9 +11,7 @@ comments: false
 ---
 # [Programming For The Hedgehog1286]({{ "/Programming-The-Hedgehog1286/" | relative_url}})
 
-
 # [Flashing The Hedgehog1286]({{ "/Flashing-The-Hedgehog1286/" | relative_url}})
-
 
 # [Troubleshooting]({{ "/Hedgehog1286-Troubleshooting/" | relative_url}})
 

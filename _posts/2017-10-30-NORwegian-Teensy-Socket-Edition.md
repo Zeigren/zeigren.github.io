@@ -13,6 +13,7 @@ comments: false
 
 # A TSOP48 NAND and TSOP56 NOR Reader/Writer Using ZIF Sockets
 ## No Longer For Sale - Has Been Replaced By The Hedgehog1286 + Expansions
+
 [Hedgehog1286]({{ "/Hedgehog1286/" | relative_url}})
 
 [Hedgehog1286 Expansions]({{ "/Hedgehog1286-Expansions/" | relative_url}})

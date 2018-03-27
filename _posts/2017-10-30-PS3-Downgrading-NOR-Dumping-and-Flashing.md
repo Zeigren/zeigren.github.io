@@ -56,12 +56,12 @@ There are quite a few different dump checkers out there for PS3. There are two I
 
 BwE NOR Validator and PS3DumpChecker.
 
-These two are usually enough for me. 
+These two are usually enough for me.
 
 I included Norpatch that you can also check with, and there are others out there you can use. You can also check manually using a hex editor. These are good things to consider doing.
 
-
 ### BwE Validator
+
 Run BwE NOR Validator. Click start. You don't want to patch to 3.55 yet so press N, you also don't want to byte reverse so press N again.
 ![BwENOR](/assets/img/BwENOR.PNG){:class="img-responsive"}
 ![BwENORNO](/assets/img/BwENORNO.PNG){:class="img-responsive"}
@@ -69,7 +69,7 @@ Run BwE NOR Validator. Click start. You don't want to patch to 3.55 yet so press
 Now it'll check your dump. After a little bit it will show you some quick results at the bottom. Ideally you want Warning: 0 and Danger: 0.
 ![BwEQuickResults](/assets/img/BwEQuickResults.PNG){:class="img-responsive"}
 
-After you exit the program it'll open up a webpage with the full results of the check, it also saves those results as an html file. You should look over this to see where any of the Warning or Danger sections are. 
+After you exit the program it'll open up a webpage with the full results of the check, it also saves those results as an html file. You should look over this to see where any of the Warning or Danger sections are.
 
 BwE hasn't been updated in awhile so if your errors are in the ROS0 and ROS1 sections that can be attributed to you having a newer firmware that it doesn't recognize.
 ![BwEROS0](/assets/img/BwEROS0.PNG){:class="img-responsive"}
@@ -78,6 +78,7 @@ BwE hasn't been updated in awhile so if your errors are in the ROS0 and ROS1 sec
 ![BwEOther](/assets/img/BwEOther.PNG){:class="img-responsive"}
 
 ### PS3DumpChecker
+
 Run PS3DumpChecker. Check image, choose the dump you want to check. Don't patch the image.
 ![PS3DumpChecker](/assets/img/PS3DumpChecker.PNG){:class="img-responsive"}
 
@@ -86,6 +87,7 @@ If it says OK and the only errors you got with BwE were for ROS0 and ROS1 you ar
 You **absolutely need** good dumps before you can do anything else.
 
 ### Patching Your Dumps
+
 Now that you’ve verified that your dumps are good, now we can patch them.
 
 You have the option of either patching for 3.55 or to patch to go to CFW.
@@ -103,6 +105,7 @@ To patch your dump for CFW run PS3DumpChecker, check the image again but this ti
 Make sure in your NOR DUMP COPIES folder that you have a dump named something like NOR_patched.bin.
 
 ### Writing Patched Dumps To The NOR
+
 Now that you have your patched dump we need to write it back to your PS3. Hopefully you still have everything connected to your PS3 and it hasn't been disturbed.
 
 Open WAY-launchers again. Then go to NOR Info and click start. Make sure it is still getting the correct Info for your NOR. If not something in your setup changed and you need to double check it.

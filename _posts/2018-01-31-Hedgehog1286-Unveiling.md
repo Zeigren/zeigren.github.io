@@ -12,11 +12,11 @@ comments: true
 
 Here it is the Hedgehog1286 development board and expansions!
 
-* [Hedgehog1286]({{ "/Hedgehog1286/" | relative_url}})    
+* [Hedgehog1286]({{ "/Hedgehog1286/" | relative_url}})
 
 * [Hedgehog1286 Info]({{ "/Hedgehog1286-Info/" | relative_url}})
 
-* [Hedgehog1286 Expansions]({{ "/Hedgehog1286-Expansions/" | relative_url}})  
+* [Hedgehog1286 Expansions]({{ "/Hedgehog1286-Expansions/" | relative_url}})
 
 * [Hedgehog1286 Expansions Info]({{ "/Hedgehog1286-Expansions-Info/" | relative_url}})
 

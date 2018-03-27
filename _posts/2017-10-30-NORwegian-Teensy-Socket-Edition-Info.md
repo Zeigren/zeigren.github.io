@@ -11,6 +11,7 @@ comments: false
 ![With Teensy++ 2.0 installed](https://i.imgur.com/OxOtkvV.jpg){:class="img-responsive"}
 
 # Board Info
+
 NORwegian Teensy Socket Edition
 
 * TSOP48 ZIF Socket for NANDs
@@ -25,15 +26,16 @@ Requires:
 
 ![](https://i.imgur.com/KIAuCVC.jpg){:class="img-responsive"}
 
-
-
 # Powering the NORwegian Teensy Socket Edition
+
 The 5V pin on the Teensy++ 2.0 is not connected to anything on the Socket Edition, so the Teensy++ 2.0 has to be powered over USB. In order to do this the 5v line needs to be cut on the bottom of the Teensy++ 2.0. Then a MCP1825 voltage regulator needs to be soldered to the Teensy++ 2.0 and the 3.3v pad bridged.
 
 ## NANDs
+
 When reading and writing to NANDs sometimes an external 3.3V DC power supply isn't necessary.
 
 ## NORs
+
 An external 3.3V DC power supply is usually required for reading and writing NORs.
 
 # Detailed Board Info
