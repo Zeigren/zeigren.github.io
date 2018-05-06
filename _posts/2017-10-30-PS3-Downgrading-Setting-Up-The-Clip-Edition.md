@@ -60,8 +60,6 @@ If your console is a NAND console you can skip this. If it's a NOR you'll need i
 
 For NOR consoles you have to solder a wire from Tristate on the clip edition to Tristate on the PS3 motherboard. Here are some pictures of the Tristate locations for different boards. Images from psdevwiki.com.
 
-On the Hedgehog 1286 you'll solder a wire from the E7 pin to Tristate.
-
 #### DIA-001/DIA-002
 ![DIA-001_BOTTOM](/assets/img/DIA-001_BOTTOM.jpg){:class="img-responsive"}
 ![DIA-001_NOR](/assets/img/DIA-001_NOR.jpg){:class="img-responsive"}
