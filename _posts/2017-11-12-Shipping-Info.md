@@ -10,6 +10,7 @@ comments: false
 
 # Currently I Ship To These Countries
 ## All Shipping is tracked and through USPS
+
 If your country isn't on the list feel free to contact me, and we can figure out how to get a tracked package to you.
 
 * Australia

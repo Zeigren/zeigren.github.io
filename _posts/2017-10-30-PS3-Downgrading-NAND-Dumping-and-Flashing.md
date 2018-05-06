@@ -53,6 +53,7 @@ Now that you've dumped one NAND dump the other.
 
 ## NAND Dumps
 ### Join Your Dumps Together
+
 Leave your PS3 connected to everything and try not to disturb it, since we're just going to have to write back to it in a minute.
 
 Once you have dumps of both NAND0 and NAND1 you have to join them together into a single dump.
@@ -71,27 +72,30 @@ NAND1 is the NAND that is on the same side of the motherboard the Blu-Ray Drive 
 * FlowRebuilder will tell you if you have any bad blocks, it'll also throw up an error if something went wrong
 * If you get an error that says it can't complete the merge, try merging them again in FlowRebuilder except switched. Input NAND1 instead of NAND0, and NAND0 instead of NAND 1. You might have just got the two mixed up. If that's the case then remember that! I would recommend renaming them right away to what they're supposed to be if that works, otherwise you're going to have a lot of heartache later on.
 * Also it's normal to have a few bad blocks, you just don't want a ton of them
+
 ![Flowrebuilder](/assets/img/Flowrebuilder.PNG){:class="img-responsive"}
 
 ### Verify NAND
+
 Now you need to check your merged NAND.
 
 There are quite a few different dump checkers out there for PS3. There are two I primarily use.
 
 BwE NAND Validator and PS3DumpChecker.
 
-These two are usually enough for me. 
+These two are usually enough for me.
 
 I added norpatch that you can also check with. You can also check manually using a hex editor. These are good things to consider doing.
 
 ### BwE Validator
+
 Run BwE NAND Validator. Pick the merged dump, and just hit N for all the options it gives you.
 ![BwENAND](/assets/img/BwENAND.PNG){:class="img-responsive"}
 
 Now it'll check your dump. After a little bit it will show you some quick results at the bottom. Ideally you want Warning: 0 and Danger: 0.
 ![BwEQuickResults](/assets/img/BwEQuickResults.PNG){:class="img-responsive"}
 
-After you exit the program it'll open up a webpage with the full results of the check, it also saves this as an html file you can look at later. You should look over this to see where any of the Warning or Danger sections are. 
+After you exit the program it'll open up a webpage with the full results of the check, it also saves this as an html file you can look at later. You should look over this to see where any of the Warning or Danger sections are.
 
 BwE hasn't been updated in awhile so if your errors are in the ROS0 and ROS1 sections that can be attributed to you having a newer firmware that it doesn't recognize.
 ![BwEROS0](/assets/img/BwEROS0.PNG){:class="img-responsive"}
@@ -100,21 +104,23 @@ BwE hasn't been updated in awhile so if your errors are in the ROS0 and ROS1 sec
 ![BwEOther](/assets/img/BwEOther.PNG){:class="img-responsive"}
 
 ### PS3DumpChecker
+
 Run PS3DumpChecker. Check image, choose the merged dump you want to check. Don't patch the image.
 ![PS3DumpChecker](/assets/img/PS3DumpChecker.PNG){:class="img-responsive"}
 
-If it says OK and the only errors you got with BwE were for ROS0 and ROS1 you are probably good to go. But if you end up with any errors check the troubleshooting section, google them, and then ask for help if you can't figure it out. 
+If it says OK and the only errors you got with BwE were for ROS0 and ROS1 you are probably good to go. But if you end up with any errors check the troubleshooting section, google them, and then ask for help if you can't figure it out.
 
 You **absolutely need** good dumps before you can do anything else.
 
 ### Patching Your Dumps
+
 Now that you've verified that your dumps are good, now you can patch them.
 
 You have the option of either patching for 3.55 or to patch to go to CFW.
 
-I normally downgrade all the way to 3.55 before doing anything else, you have to reformat your PS3 this way though, and boot into FSM (factory service mode). 
+I normally downgrade all the way to 3.55 before doing anything else, you have to reformat your PS3 this way though, and boot into FSM (factory service mode).
 
-But if you're planning on just going to the latest custom firmware and don't want to reformat your PS3 patching for CFW is the way to go, you don't have to go into FSM either, and it's easier. 
+But if you're planning on just going to the latest custom firmware and don't want to reformat your PS3 patching for CFW is the way to go, you don't have to go into FSM either, and it's easier.
 
 So make your choice.
 
@@ -125,13 +131,14 @@ To patch your merged dump for CFW run PS3DumpChecker, check the image again but 
 Make sure that in your NAND DUMP COPIES folder you have a dump named something like merged_patched.bin.
 
 ### Split Merged Dump
+
 Now that you checked your dump and it's good to go you have to split it back up again before you flash it to your PS3.
 
 So open FlowRebuilder again.
 
 Choose RE-SCRAMBLE a modified dump then de-interleave it into two new flashes.
 
-For Flash0 (TOP) and Flash1 (Bottom), choose the same dumps you chose for those the first time. 
+For Flash0 (TOP) and Flash1 (Bottom), choose the same dumps you chose for those the first time.
 
 Then for the interleaved modified file choose your merged_patched.bin.
 
@@ -140,6 +147,7 @@ Now execute operation.
 In the folder your dumps are in you should now have something like NAND0.bin.new.bin and NAND1.bin.new.bin. Those are the files you're going to be reflashing to your PS3.
 
 ### Writing Patched Dumps To NANDS
+
 Hopefully your still connected to your PS3 and it hasn't been disturbed in anyway.
 
 Open WAY-launchers.exe again.

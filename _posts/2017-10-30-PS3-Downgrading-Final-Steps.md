@@ -10,6 +10,7 @@ tag:
 comments: false
 ---
 # Finishing The Downgrade
+
 You are so close to being done!
 
 So there are two routes you can take from here.
@@ -19,7 +20,8 @@ If you chose to patch to 3.55 using BwE then follow the Downgrade to 3.55 sectio
 If you chose to noFSM patch using PS3DumpChecker then follow Downgrade to CFW section.
 
 ## Downgrade to 3.55
-You'll need to go into FSM in order to flash down to 3.55. Luckily you can just use the Teensy++ 2.0 to do this! 
+
+You'll need to go into FSM in order to flash down to 3.55. Luckily you can just use the Teensy++ 2.0 to do this!
 
 Go into the FSM folder and run the Teensy Loader (Teensy.exe), open hex file and choose psgrade_at90usb1286_8Mhz_teensy++_2.0_noLED.hex. Hit the reset button on the Teensy++ 2.0. Then hit program in Teensy Loader. Once it's done hit reboot in Teensy Loader.
 ![FSM](/assets/img/FSM.PNG){:class="img-responsive"}
@@ -41,11 +43,12 @@ Turn on your PS3, it should have a black screen but your HDD activity light shou
 
 Remove the USB drive and put it back into your computer. There should be a file called UPDATER_LOG on it. Check it and at the bottom it should say 0x83manufacturing updating SUCCESS(0x8002f000).
 
-You now need to get your PS3 out of FSM. 
+You now need to get your PS3 out of FSM.
 
 Delete the files on your USB drive. Go to the 'Get Out Of FSM' folder and put them on your USB drive. Put the USB drive into the right most port in your PS3. Turn your PS3 on, it should turn on for a little bit then turn off again. Remove the USB drive. Now you should be on Rogero 3.55 spoofed to 4.11.
 
 ### QA Flag De-Hashing
+
 This is the final step in getting down to 3.55 OFW.
 
 Delete the files on your USB drive. Put the files in the 'QA Flag De-Hashing' folder onto it.
@@ -64,7 +67,8 @@ If you are QA flagged a new option will show up under network settings.
 Turn off your PS3.
 
 Boot into recovery mode.
-* To boot into recovery mode turn your PS3 off. Now hold the power button until you get a beep, then a second beep and your PS3 will turn off. 
+
+* To boot into recovery mode turn your PS3 off. Now hold the power button until you get a beep, then a second beep and your PS3 will turn off.
 * Press and hold the power button again until you get one beep, then a second beep and then let go of the power button. It should boot into recovery.
 * Select "6. System Update" to reinstall the firmware.
 
@@ -81,10 +85,12 @@ Plug that into the right most USB port. Make sure there isn't a disc in the Blu-
 You'll now be on whatever CFW you chose.
 
 ## Downgrade to CFW
+
 Turn on your PS3.
 
 If your PS3 is booting to a black screen you need to enter recovery.
-* To boot into recovery mode turn your PS3 off. Now hold the power button until you get a beep, then a second beep and your PS3 will turn off. 
+
+* To boot into recovery mode turn your PS3 off. Now hold the power button until you get a beep, then a second beep and your PS3 will turn off.
 * Press and hold the power button again until you get one beep, then a second beep and then let go of the power button. It should boot into recovery.
 * Select "6. System Update" to reinstall the firmware.
 
