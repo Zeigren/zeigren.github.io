@@ -37,7 +37,7 @@ An adapter for the FlashcatUSB xPort to read/write TSOP48 NAND flash memory usin
 
 It uses buffers in order to supply a "signal boost" on the same signals that I "boosted" on my other boards.
 
-Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup.
+Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup. The capacitor footprint is for a capacitor with 2mm lead spacing, something like [this](https://www.digikey.com/product-detail/en/wurth-electronics-inc/860010372006/732-8598-1-ND/5728555) should work.
 
 Works with PS3 NANDs.
 
@@ -50,7 +50,7 @@ An adapter for the FlashcatUSB xPort to read/write TSOP48 NAND flash memory usin
 
 It uses buffers in order to supply a "signal boost" on the same signals that I "boosted" on my other boards.
 
-Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup.
+Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup. The capacitor footprint is for a capacitor with 2mm lead spacing, something like [this](https://www.digikey.com/product-detail/en/wurth-electronics-inc/860010372006/732-8598-1-ND/5728555) should work.
 
 Works with PS3 NANDs.
 
@@ -63,7 +63,7 @@ An adapter for the FlashcatUSB xPort to read/write TSOP48 NAND flash memory usin
 
 It uses buffers in order to supply a "signal boost" on the same signals that I "boosted" on my other boards.
 
-Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup.
+Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup. The capacitor footprint is for a capacitor with 2mm lead spacing, something like [this](https://www.digikey.com/product-detail/en/wurth-electronics-inc/860010372006/732-8598-1-ND/5728555) should work.
 
 Works with PS3 NANDs.
 
@@ -74,7 +74,7 @@ Works with PS3 NANDs.
 
 An adapter for the FlashcatUSB xPort to read/write TSOP56 NOR flash memory using the TSOP56 UNI Clip.
 
-Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup.
+Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup. The capacitor footprint is for a capacitor with 2mm lead spacing, something like [this](https://www.digikey.com/product-detail/en/wurth-electronics-inc/860010372006/732-8598-1-ND/5728555) should work.
 
 Works with PS3 NORs.
 
@@ -85,7 +85,7 @@ Works with PS3 NORs.
 
 An adapter for the FlashcatUSB xPort to read/write TSOP56 NOR flash memory using the E3 Clip.
 
-Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup.
+Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup. The capacitor footprint is for a capacitor with 2mm lead spacing, something like [this](https://www.digikey.com/product-detail/en/wurth-electronics-inc/860010372006/732-8598-1-ND/5728555) should work.
 
 Works with PS3 NORs.
 
@@ -96,7 +96,7 @@ Works with PS3 NORs.
 
 An adapter for the FlashcatUSB xPort to read/write TSOP56 NOR flash memory using the TSOP56 UNI Clip. It works with different TSOP56 NOR flashes than the 'Type A' adapters.
 
-Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup.
+Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup. The capacitor footprint is for a capacitor with 2mm lead spacing, something like [this](https://www.digikey.com/product-detail/en/wurth-electronics-inc/860010372006/732-8598-1-ND/5728555) should work.
 
 ---
 # TSOP48 NOR UNI (Type A) Adapter
@@ -108,7 +108,7 @@ Using a jumper the power source can be switched between using power from the Fla
 
 An adapter for the FlashcatUSB xPort to read/write TSOP48 NOR flash memory using the TSOP48 UNI Clip. It has a row of pin headers that you can use to change the pinout from supporting 28 Series NORs to 29 Series.
 
-Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup.
+Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup. The capacitor footprint is for a capacitor with 2mm lead spacing, something like [this](https://www.digikey.com/product-detail/en/wurth-electronics-inc/860010372006/732-8598-1-ND/5728555) should work.
 
 ---
 # Power Supply Adapter
