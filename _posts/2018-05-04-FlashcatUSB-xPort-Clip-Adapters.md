@@ -15,8 +15,9 @@ comments: false
 ## FlashcatUSB xPort can be purchased from [EmbeddedComputers](http://www.embeddedcomputers.net/products/FlashcatUSB_xPort/)
 ### Payments go through PayPal, feel free to check my [eBay Seller Feedback](https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=zeigren&ftab=FeedbackAsSeller&searchInterval=30)
 ### [Shipping Info]({{ "/Shipping-Info/" | relative_url}})
-### Each board is made to order so it may take me up to a week to ship them, depending on how long it takes me to get the parts.
+### Each board is made to order so it may take me week or so to ship them, depending on how long it takes me to get the parts.
 ### You can add multiple boards to the cart before placing your order.
+### <a href="#" class="snipcart-checkout">Click To Show Cart</a>
 
 ---
 
@@ -221,10 +222,10 @@ A power supply adapter that can sit on top of one of the clip adapters. Using a 
 
 Comes with:
 - PCB
-- 3x 3-Pin 2.54mm Female Pin Sockets
+- 4x 3-Pin 2.54mm Female Pin Sockets
 - 2.54mm Terminal Block
 - 2.54mm Jumper
-- 4x 2.54mm Pin Headers
+- 7x 2.54mm Pin Headers
 
 ---
 
@@ -243,7 +244,7 @@ Comes with:
     Buy All of the Adapters
 </button>
 
-You'll get one of each clip adapter as well as the power supply adapter.
+You'll get one of each clip adapter as well as a power supply adapter.
 
 ---
 
