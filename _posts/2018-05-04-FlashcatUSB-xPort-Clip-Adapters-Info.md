@@ -8,12 +8,8 @@ tag:
 - xPort
 - Adapters
 comments: false
+feature : /assets/img/FlashcatAdapters/FCXA_COLLAGE.jpg
 ---
-
-
----
-![FCXA Collage](/assets/img/FlashcatAdapters/FCXA_COLLAGE.jpg){:class="img-responsive"}
-
 ## [FlashcatUSB xPort Clip Adapters Hardware Page]({{ "/FlashcatUSB-xPort-Clip-Adapters/" | relative_url}})
 
 The clip adapters are all designed to work with the FlashcatUSB xPort made by [EmbeddedComputers](http://www.embeddedcomputers.net/products/FlashcatUSB_xPort/), on that webpage is a list of the NAND and NOR flashes it supports.
