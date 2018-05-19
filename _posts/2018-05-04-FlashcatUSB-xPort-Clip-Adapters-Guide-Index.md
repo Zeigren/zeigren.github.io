@@ -11,7 +11,9 @@ tag:
 comments: false
 ---
 
-# [Using the FlashcatUSB xPort]({{ "/Using-FlashcatUSB-xPort-Clip-Adapters/" | relative_url}})
+# [Using the FlashcatUSB xPort Clip Adapters]({{ "/Using-FlashcatUSB-xPort-Clip-Adapters/" | relative_url}})
+
+# [Troubleshooting the FlashcatUSB xPort Clip Adapters]({{ "/Troubleshooting-FlashcatUSB-xPort-Clip-Adapters/" | relative_url}})
 
 ---
 
