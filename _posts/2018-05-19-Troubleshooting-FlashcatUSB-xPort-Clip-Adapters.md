@@ -16,7 +16,7 @@ The majority of the problems with using the clips are from the clips making poor
 
 * Make sure the Flashcat is set to the appropriate voltage for the flash you're trying to read/write, and if you're using the power supply adapter make sure that it is as well
 * Open the console tab and look for something like this: Connected to Flash (CHIP ID: 0x00000000)
-* You can use the Chip ID for some clues as to what is going on. Every time you change something you'll want to try and detect the flash again, and see how this number changes
+* You can use the Chip ID for some clues as to what is going on. Every time you change something you'll want to try and detect the flash again (press F1), and see how this number changes
 * If the flash is detected it will say so in the console
 
 # Poor Clip Contact
