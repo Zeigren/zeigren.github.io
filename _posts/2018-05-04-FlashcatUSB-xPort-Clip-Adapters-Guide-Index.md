@@ -10,10 +10,11 @@ tag:
 - Resources
 comments: false
 ---
-
 # [Using the FlashcatUSB xPort Clip Adapters]({{ "/Using-FlashcatUSB-xPort-Clip-Adapters/" | relative_url}})
 
 # [Troubleshooting the FlashcatUSB xPort Clip Adapters]({{ "/Troubleshooting-FlashcatUSB-xPort-Clip-Adapters/" | relative_url}})
+
+# [Troubleshooting Flash Dumps]({{ "/Troubleshooting-Flash-Dumps/" | relative_url}})
 
 ---
 
