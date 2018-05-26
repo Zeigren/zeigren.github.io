@@ -229,27 +229,4 @@ Comes with:
 
 ---
 
-![FCXA_ALL](/assets/img/FlashcatAdapters/FCXA_ALL.jpg){:class="img-responsive"}
-# All of the Adapters
-### $175.00 + Shipping
-<button
-    class="snipcart-add-item"
-    data-item-id="12"
-    data-item-name="All Adapters"
-    data-item-price="175.00"
-    data-item-weight="1000"
-    data-item-image="https://zeigren.github.io/assets/img/FlashcatAdapters/FCXA_ALL.jpg"
-    data-item-url="https://zeigren.github.io/FlashcatUSB-xPort-Clip-Adapters/"
-    data-item-description="All of the Adapters for FlashcatUSB xPort">
-    Buy All of the Adapters
-</button>
-
-You'll get one of each clip adapter as well as a power supply adapter.
-
----
-
 Have any questions or just want to talk about the FlashcatUSB xPort Adapters? Head on over to the [Riot.im](https://riot.im) room at [#FCXAdapters:matrix.org](https://riot.im/app/#/room/#FCXAdapters:matrix.org). Or you can of course e-mail me or leave a comment on the forum thread of your choice.
-
-
-
-
