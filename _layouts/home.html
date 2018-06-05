@@ -51,6 +51,20 @@ layout: compress
                         About
                         </a>
                  </h3>
+                 <h2>Latest News</h2>
+                 <div class="post-list">
+                    {% for post in site.posts %}
+                    {% if post.news %}
+                    <ul>
+                        <li>
+                                <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                <p>{{ post.excerpt }}</p>
+                        </li>  
+                    </ul>
+                    {% break %}
+                    {% endif %}
+                    {% endfor %}
+                </div>
             </div>
         </div>
     </header>

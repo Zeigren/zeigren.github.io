@@ -30,7 +30,7 @@ layout: compress
                         {% if post.software == null %}
                         {% if post.fcadaptersguide == null %}
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="0s">
+                        <li>
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
@@ -48,7 +48,5 @@ layout: compress
         </div>
     </header>
     {% include scripts.html %}
-    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
-    <script type="text/javascript">(new WOW).init();</script>
 </body>
 </html>
