@@ -50,7 +50,6 @@ Comes with:
 ![TSOP48 NAND 360 (Type B)](/assets/img/FlashcatAdapters/48_NAND360_B.jpg){:class="img-responsive"}
 # TSOP48 NAND 360 (Type B) Adapter
 ### $25.00 + Shipping
-### Out of Stock - Should be back in stock around 6/4/2018
 <button
     class="snipcart-add-item"
     data-item-id="5"
