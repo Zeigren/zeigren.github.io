@@ -24,7 +24,7 @@ For each clip adapter there is an image of the NAND/NOR pinouts that it supports
 
 You can download the software for the FlashcatUSB xPort from [here](http://www.embeddedcomputers.net/software/).
 
-[Here](https://youtu.be/0JLvI2vaAI8) is a video I made about these clip adapters as well as a basic tutorial on using them with the FlashcatUSB xPort. I also have some basic guides [here]({{ "/FlashcatUSB-xPort-Clip-Adapters-Guide-Index/" | relative_url}}) as well.
+[Here](https://youtu.be/0JLvI2vaAI8) is a video I made about the clip adapters as well as a basic tutorial on using them with the FlashcatUSB xPort. I've made a more in depth [tutorial video](https://youtu.be/mcuzO3ZSaBg) and a video going over some [troubleshooting](https://youtu.be/43VDcZQesHo) steps. I also have some basic guides [here]({{ "/FlashcatUSB-xPort-Clip-Adapters-Guide-Index/" | relative_url}}) as well.
 
 You can find the clips themselves on websites like eBay, AliExpress, and various modchip/modding websites. If you're not sure if a clip you found is the right one feel free to e-mail me.
 

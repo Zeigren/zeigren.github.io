@@ -10,6 +10,9 @@ tag:
 - Resources
 comments: false
 ---
+
+[Here](https://youtu.be/0JLvI2vaAI8) is a video I made about the clip adapters as well as a basic tutorial on using them with the FlashcatUSB xPort. I've made a more in depth [tutorial video](https://youtu.be/mcuzO3ZSaBg) and a video going over some [troubleshooting](https://youtu.be/43VDcZQesHo) steps.
+
 # First Steps
 
 The majority of the problems with using the clips are from the clips making poor contact and from power issues. If other components besides the flash are receiving power they may try to access the flash at the same time, which would also cause issues. If that is the case then you'll have to figure out how to prevent the other chip from doing that, usually by putting it into a reset state or tri-state.
