@@ -210,7 +210,7 @@ Comes with:
     class="snipcart-add-item"
     data-item-id="11"
     data-item-name="Power Supply Adapter"
-    data-item-price="30.00"
+    data-item-price="33.00"
     data-item-weight="200"
     data-item-image="https://zeigren.github.io/assets/img/FlashcatAdapters/FCXA_PSU.jpg"
     data-item-url="https://zeigren.github.io/FlashcatUSB-xPort-Clip-Adapters/"
