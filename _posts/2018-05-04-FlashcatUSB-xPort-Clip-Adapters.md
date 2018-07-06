@@ -205,7 +205,7 @@ Comes with:
 
 ![Power Supply Adapter](/assets/img/FlashcatAdapters/FCXA_PSU.jpg){:class="img-responsive"}
 # Power Supply Adapter
-### $30.00 + Shipping
+### $33.00 + Shipping
 <button
     class="snipcart-add-item"
     data-item-id="11"
