@@ -74,3 +74,5 @@ NANDs have two NANDs. Both need to be dumped and then flashed to again. There's 
 
 # [Setting Up The Socket Edition Continue - Page 4b]({{ "/PS3-Downgrading-Setting-Up-The-Socket-Edition/" | relative_url}})
 # [Troubleshooting]({{ "/PS3-Downgrading-Troubleshooting/" | relative_url}})
+
+# [Setting Up The FlashcatUSB Clip Adapters Continue - Page 4c]({{ "/PS3-Downgrading-Setting-Up-The-FlashcatUSB-Clip-Adapters/" | relative_url}})

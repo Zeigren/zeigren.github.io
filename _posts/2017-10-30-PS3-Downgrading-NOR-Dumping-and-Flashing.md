@@ -44,6 +44,17 @@ NOR dumps don't take that long, but it'll still be a few minutes to do all three
 
 If the binary comparison WAY-launchers does says that your dumps don't match up then something about your setup isn't working correctly, check the troubleshooting section.
 
+## Using the FlashcatUSB Software To Dump NORs
+
+You'll open up the FlashcatUSB Software, make sure that you have the settings correct.
+
+Under Mode > Protocol Settings
+![Protocol Settings](/assets/img/FlashcatAdapters/Protocol Settings.png){:class="img-responsive"}
+
+Detect the NOR and read the NOR to a bin file and save it into the NOR DUMPS ORIGINAL folder.
+
+I would read the NOR at least two times then use md5checker to check that they match, or you can use the built in comparison tool in the FlashcatUSB software to do the same thing.
+
 ## NOR Dumps
 ### Checking Your Dumps
 
@@ -90,7 +101,7 @@ You **absolutely need** good dumps before you can do anything else.
 
 Now that you’ve verified that your dumps are good, now we can patch them.
 
-You have the option of either patching for 3.55 or to patch to go to CFW.
+If using a Teensy you have the option of either patching for 3.55 or to patch to go to CFW. If using the FlashcatUSB xPort you'll need to go straight to CFW.
 
 I normally downgrade all the way to 3.55 before doing anything else, you have to reformat your PS3 this way though, and boot into FSM (factory service mode).
 
@@ -100,11 +111,11 @@ So make your choice.
 
 To patch your dump for 3.55 run BwE NAND Validator again, but this time hit y to patch for 3.55. But hit n for the other stuff.
 
-To patch your dump for CFW run PS3DumpChecker, check the image again but this time let it patch. It should patch it for noFSM 4.81 Ferrox.
+To patch your dump for CFW run PS3DumpChecker, check the image again but this time let it patch. It should patch it for noFSM Ferrox.
 
 Make sure in your NOR DUMP COPIES folder that you have a dump named something like NOR_patched.bin.
 
-### Writing Patched Dumps To The NOR
+### Writing Patched Dumps To The NOR With WAY-Launchers
 
 Now that you have your patched dump we need to write it back to your PS3. Hopefully you still have everything connected to your PS3 and it hasn't been disturbed.
 
@@ -113,7 +124,9 @@ Open WAY-launchers again. Then go to NOR Info and click start. Make sure it is s
 If it's fine go to the Write tab. Pick your patched dump file, click verify after write, then click start!
 ![NORwrite](/assets/img/NORwrite.PNG){:class="img-responsive"}
 
-It'll take a few minutes to write and verify, if the verification checks out congratulations the hard part is over! If it doesn't go to the troubleshooting section.
+### Writing Patched Dumps To NOR Using FlashcatUSB
+
+Open up the FlashcatUSB software and write the new.bin to the NOR. To speed it up you can turn off verify programming under the Mode tab. Although I recommend verifying the write after it's finished.
 
 # [Continue to Page 7 - PS3 Putting It Back Together]({{ "/PS3-Downgrading-PS3-Putting-It-Back-Together/" | relative_url}})
 # [Troubleshooting]({{ "/PS3-Downgrading-Troubleshooting/" | relative_url}})

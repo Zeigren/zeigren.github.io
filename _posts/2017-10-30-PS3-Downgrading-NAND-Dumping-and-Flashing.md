@@ -51,6 +51,22 @@ If not check the troubleshooting section.
 
 Now that you've dumped one NAND dump the other.
 
+## Using the FlashcatUSB Software To Dump NANDs
+
+You'll open up the FlashcatUSB Software, make sure that you have the NAND settings correct.
+
+Under Mode > Protocol Settings
+![Protocol Settings](/assets/img/FlashcatAdapters/Protocol Settings.png){:class="img-responsive"}
+
+At the bottom you need to change the main/spare area layout to combined.
+![NAND Combined](/assets/img/FlashcatAdapters/NAND Combined.png){:class="img-responsive"}
+
+Detect the NAND and read the NAND to a bin file and save it into the NAND DUMPS ORIGINAL folder. If you're dumping NAND0 I would name it either NAND0 or NANDTOP and if it's NAND1 I would name it NAND1 or NANDBOTTOM, that way you don't confuse them later.
+
+I would read the NAND at least two times then use md5checker to check that they match, or you can use the built in comparison tool in the FlashcatUSB software to do the same thing.
+
+Now that you've dumped one NAND dump the other.
+
 ## NAND Dumps
 ### Join Your Dumps Together
 
@@ -61,7 +77,7 @@ Once you have dumps of both NAND0 and NAND1 you have to join them together into 
 Copy a NAND0.bin, and a NAND1.bin from the NAND DUMP ORIGINAL folder, and paste those into NAND DUMP COPIES.
 ![NANDDUMPCOPIES](/assets/img/NANDDUMPCOPIES.PNG){:class="img-responsive"}
 
-In NAND DUMP COPIES open FlowRebuilder.exe 
+In NAND DUMP COPIES open FlowRebuilder.exe
 
 * Choose UNSCRAMBLE then interleave two NAND flashes into one unified dump.
 * Select your NAND0 dump for Flash0(TOP) and NAND1 dump for Flash1(Bottom).
@@ -116,7 +132,7 @@ You **absolutely need** good dumps before you can do anything else.
 
 Now that you've verified that your dumps are good, now you can patch them.
 
-You have the option of either patching for 3.55 or to patch to go to CFW.
+If using a Teensy you have the option of either patching for 3.55 or to patch to go to CFW. If using the FlashcatUSB xPort you'll need to go straight to CFW.
 
 I normally downgrade all the way to 3.55 before doing anything else, you have to reformat your PS3 this way though, and boot into FSM (factory service mode).
 
@@ -126,7 +142,7 @@ So make your choice.
 
 To patch your merged dump for 3.55 run BwE NAND Validator again, but this time hit y to patch for 3.55. But hit n for the other stuff.
 
-To patch your merged dump for CFW run PS3DumpChecker, check the image again but this time let it patch. It should patch it for noFSM 4.81 Ferrox.
+To patch your merged dump for CFW run PS3DumpChecker, check the image again but this time let it patch. It should patch it for noFSM Ferrox.
 
 Make sure that in your NAND DUMP COPIES folder you have a dump named something like merged_patched.bin.
 
@@ -146,7 +162,7 @@ Now execute operation.
 
 In the folder your dumps are in you should now have something like NAND0.bin.new.bin and NAND1.bin.new.bin. Those are the files you're going to be reflashing to your PS3.
 
-### Writing Patched Dumps To NANDS
+### Writing Patched Dumps To NANDS Using WAY-launchers
 
 Hopefully your still connected to your PS3 and it hasn't been disturbed in anyway.
 
@@ -165,6 +181,10 @@ Then Click verify after write, and then Start!
 ![NANDwrite](/assets/img/NANDwrite.PNG){:class="img-responsive"}
 
 Using a diff. file it only takes like 2 minutes to write a NAND. So once that's done and it verifies correctly you now have to do the same thing to the NAND on the other side of the motherboard.
+
+### Writing Patched Dumps To NANDS Using FlashcatUSB
+
+Open up the FlashcatUSB software and write the new.bin to the NAND you're currently connected to. To speed it up you can turn off verify programming under the Mode tab. Although I recommend verifying the write after it's finished.
 
 Now the hard part is done!
 

@@ -11,7 +11,7 @@ comments: false
 
 ## Putting PS3 Back Together
 
-Remove the clip from the NOR/NAND. Unplug the Teensy++ 2.0 from your computer and unplug the microUSB power cable. Desolder Tristate if you're downgrading a NOR.
+Remove the clip from the NOR/NAND. Unplug the Teensy++ 2.0/FlashcatUSB from your computer and detach any power cables. Desolder Tristate if you're downgrading a NOR.
 
 Make sure to clean off and replace the thermal paste on the heatsink, GPU, and CPU. Use isopropyl alcohol and paper towels and q-tips. You want to clean as much off as you can and to clean any off that gets on the motherboard.
 

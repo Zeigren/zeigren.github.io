@@ -21,7 +21,7 @@ In order to downgrade you have to take apart your PS3 and use some kind of hardw
 
 Only certain models of PS3s can be downgraded, it doesn't matter what firmware they're at. Just what model they are.
 
-These guides are geared toward using the NORwegian Teensy Clip Edition and Socket Edition in order to perform downgrades.
+These guides are geared toward using the FlashcatUSB Clip Adapters, NORwegian Teensy Clip Edition and Socket Edition in order to perform downgrades.
 
 # Can I Downgrade?
 
@@ -42,7 +42,7 @@ You can also check using [MinVerChk](http://psx-scene.com/forums/content/minverc
 
 Once you know that you can downgrade, check which type of flash memory your PS3 uses on the same chart. It will either be NOR or NAND. Whether your PS3 is NOR or NAND will determine how you downgrade your PS3. As each is downgraded slightly differently.
 
-The NORwegian Teensy Clip and Socket Edition use a PJRC Teensy++ 2.0 in conjunction with NORway and NANDway in order to perform the downgrade.
+The NORwegian Teensy Clip and Socket Edition use a PJRC Teensy++ 2.0 in conjunction with NORway and NANDway in order to perform the downgrade. The FlashcatUSB Clip Adapters are used with the FlashcatUSB xPort from EmbeddedComputers.
 
 PS3 downgrading isn't the easiest thing in the world. I've made this guide and this hardware to try and make it a little easier, but there can still be all kinds of problems and issues you run into along the way.
 

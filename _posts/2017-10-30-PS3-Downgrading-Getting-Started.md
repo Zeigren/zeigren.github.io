@@ -10,14 +10,35 @@ comments: false
 ---
 # Getting Started
 
-Please read the entire guide before you actually start (**all of it**, yes I know it's long). 
+Please read the entire guide before you actually start (**all of it**, yes I know it's long).
 That way you know what you're getting into and what things you might need for your particular setup.
 
-I'm also in **NO WAY** responsible for you messing up or destroying anything in the process of downgrading. 
+I'm also in **NO WAY** responsible for you messing up or destroying anything in the process of downgrading.
 I and many others have tried to make this as easy and foolproof as possible, but things can go wrong, freak accidents happen, and not everyone is the brightest tool in the shed.
 
-
 # Hardware
+
+## FlashcatUSB Clip Adapters
+
+![FCXA_ALL](/assets/img/FlashcatAdapters/FCXA_ALL.jpg){:class="img-responsive"}
+You will need
+
+* A TSOP48 (Type B) Adapter for NANDs or a TSOP56 (Type A) Adapter for NORs
+* A FlashcatUSB xPort
+* A Power Supply adapter, 5v 2Amp USB power adapter (USB phone charger), and a microUSB cable OR some other external power supply
+* Whatever clip you would like to use
+* Wire - for Tristate on NOR consoles and to directly connect a power supply to the motherboard
+* A soldering iron
+* Solder
+* Flux
+* Thermal Paste
+* Screwdrivers
+* Paper towels, Q-Tips
+* Isopropyl Alcohol
+* A multimeter, any cheap one will do
+
+Alternatively the FlashcatUSB xPort does have official sockets for NANDs and NORs that can be used.
+
 ## Clip Edition
 
 ![NTCEGLAMOUR](/assets/img/NTCEGLAMOUR.jpg){:class="img-responsive"}
@@ -33,7 +54,7 @@ You will need
   * [These would work](https://www.amazon.com/Hotop-Pack-Single-Header-Connector/dp/B06XR8CV8P/ref=sr_1_8?ie=UTF8&qid=1509273572&sr=8-8&keywords=pin+header), just break them apart into what you need
 * Jumper Wires (2x for connection to the Teensy++ 2.0, 1x for Tristate on NOR consoles)
   * [Like these](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-100pcs/dp/B005TZJ0AM/ref=sr_1_4?s=electronics&ie=UTF8&qid=1509248805&sr=1-4&keywords=jumper+wires) 
-* A soldering iron (If you're doing NANDs and have me put the Teensy++ 2.0 on for you, you don't need to solder at all!)
+* A soldering iron
 * Solder
 * Flux
 * Thermal Paste
@@ -44,18 +65,18 @@ You will need
 
 ### All The Clips
 
-As you know the Clip Edition supports every clip, at least every clip I know of. It also lets you use some of the clips in ways they were not designed.
+As you know the FlashcatUSB Clip Adapters and the Clip Edition support every clip, at least every clip I know of. It also lets you use some of the clips in ways they were not designed.
 
 But which clip is right for you?
 
 #### E3 Flasher Clip / E3 Flasher NOR Clip Suit / E3 Clip Suit / E3 Flasher E3 NOR Flash Clip Cable
 
 ![E3CLIP](/assets/img/E3CLIP.jpg){:class="img-responsive"}
-You can use it for both **NORs** and **NANDs** on the Clip Edition. 
+You can use it for both **NORs** and **NANDs** on the Clip Edition.
 
 The E3 clip is relatively cheap and easy to come by. It has a pretty long cable and depending on the version of the clip you get you might not need to trim it in any way, you'll have to trim it for use with a NAND though.
 
-You do have to twist the cable around to actually use it, 
+You do have to twist the cable around to actually use it,
 and since it is such a long thin cable the wires in the cable are smaller than some of the other clips.
 So it might not be as good as some of the other clips.
 
@@ -111,12 +132,16 @@ You can find it on places like eBay, AliExpress, and various modchip/modding web
 
 To make it easy I made a zip file with the exact folder structure I use, and with all the files you need inside of it.
 
-You can [download it here](https://mega.nz/#!ovIEhS5D!Eke5679s1qnOJEv8Bs3BSBIGjsHzn5Zzmj0-w6hrAk4)
+You can [download the Teensy version here](https://mega.nz/#!ovIEhS5D!Eke5679s1qnOJEv8Bs3BSBIGjsHzn5Zzmj0-w6hrAk4)
+
+You can [download the FlashcatUSB xPort version here](https://mega.nz/#!t3Z3SarA)
+
+For those of you using the FlashcatUSB Clip Adapters you'll need to download the latest software from EmbeddedComputers.
 
 This is where I got all those programs, so you can check there for updates in the future and if you want to download all the files yourself.
 
 * [NORway/NANDway by judges](https://github.com/hjudges/NORway)
-* [WAY-launchers GUI by littlebalup](https://github.com/littlebalup/WAY-launchers) 
+* [WAY-launchers GUI by littlebalup](https://github.com/littlebalup/WAY-launchers)
 * [Teensy++ 2.0 Serial Driver](https://www.pjrc.com/teensy/usb_serial.html)
 * [Teensy Loader](https://www.pjrc.com/teensy/loader_win10.html)
 * [Pyserial 2.5](https://pypi.python.org/pypi/pyserial/2.5)
@@ -125,7 +150,6 @@ This is where I got all those programs, so you can check there for updates in th
 * [FlowRebuilder 5.2](http://www.ps3hax.net/showthread.php?t=95794)
 * [BwE Validator](http://psx-scene.com/forums/content/bwe-nor-validator-v1-30-3373/)
 * [Other Files I Just Took from Bailey's Guide](http://www.ps3hax.net/showthread.php?t=39766)
-
-I'll try to fill in the sources of those files later.
+* [FlashcatUSB Software](http://www.embeddedcomputers.net/software/)
 
 # [Continue to Page 3 - PS3 Teardown]({{ "/PS3-Downgrading-PS3-Teardown/" | relative_url}})

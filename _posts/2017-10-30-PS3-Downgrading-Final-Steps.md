@@ -117,7 +117,7 @@ A quick rundown of what all these different terms mean.
 * REX is the Rebug Custom Firmware for CEX(Consumer)
 * D-REX is the Rebug Custom Firmware for DEX(Developer)
 
-If you don't need all the developer options, or don't know if you need all the developer options I recommened going with the REX Rebug firmware. This is probably what the majority of people with modded PS3's use.
+If you don't need all the developer options, or don't know if you need all the developer options I recommend going with the REX Rebug firmware. This is probably what the majority of people with modded PS3's use.
 
 Here's a link to the [Rebug](https://rebug.me/) website where you can download the latest Rebug firmware.
 

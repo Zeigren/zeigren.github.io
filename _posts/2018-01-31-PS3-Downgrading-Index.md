@@ -19,9 +19,13 @@ comments: false
 
 # [Setting Up The Socket Edition - Page 4b]({{ "/PS3-Downgrading-Setting-Up-The-Socket-Edition/" | relative_url}})
 
+# [Setting Up The FlashcatUSB Clip Adapters - Page 4c]({{ "/PS3-Downgrading-Setting-Up-The-FlashcatUSB-Clip-Adapters/" | relative_url}})
+
 # [Downgrading With The Clip Edition - Page 5a]({{ "/PS3-Downgrading-With-The-Clip-Edition/" | relative_url}})
 
 # [Downgrading With The Socket Edition - Page 5b]({{ "/PS3-Downgrading-With-The-Socket-Edition/" | relative_url}})
+
+# [Downgrading With The FlashcatUSB Clip Adapters - Page 5c]({{ "/PS3-Downgrading-With-The-FlashcatUSB-Clip-Adapters/" | relative_url}})
 
 # [NAND Dumping and Flashing - Page 6a]({{ "/PS3-Downgrading-NAND-Dumping-and-Flashing/" | relative_url}})
 
