@@ -134,7 +134,7 @@ To make it easy I made a zip file with the exact folder structure I use, and wit
 
 You can [download the Teensy version here](https://mega.nz/#!ovIEhS5D!Eke5679s1qnOJEv8Bs3BSBIGjsHzn5Zzmj0-w6hrAk4)
 
-You can [download the FlashcatUSB xPort version here](https://mega.nz/#!t3Z3SarA)
+You can [download the FlashcatUSB xPort version here](https://mega.nz/#!t3Z3SarA!HlAXxiMV5piTTSJMEBguUbMKgzVwIt6RpjK3qesoSys)
 
 For those of you using the FlashcatUSB Clip Adapters you'll need to download the latest software from EmbeddedComputers.
 

@@ -66,7 +66,7 @@ If you search for pictures of your motherboard you can usually find pictures of 
 
 # Software
 
-Download my PS3 Downgrading Files FlashcatUSB Edition.zip, and extract it. Here's the [link](https://mega.nz/#!t3Z3SarA). Make sure to download the latest [FlashcatUSB Software](http://www.embeddedcomputers.net/software/) and replace the one I included.
+Download my PS3 Downgrading Files FlashcatUSB Edition.zip, and extract it. Here's the [link](https://mega.nz/#!t3Z3SarA!HlAXxiMV5piTTSJMEBguUbMKgzVwIt6RpjK3qesoSys). Make sure to download the latest [FlashcatUSB Software](http://www.embeddedcomputers.net/software/) and replace the one I included.
 
 Update the firmware on the FlashcatUSB xPort as well.
 
