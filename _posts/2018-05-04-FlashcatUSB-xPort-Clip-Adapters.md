@@ -23,12 +23,12 @@ comments: false
 
 ![TSOP48 NAND UNI (Type B)](/assets/img/FlashcatAdapters/48_NANDUNI_B.jpg){:class="img-responsive"}
 # TSOP48 NAND UNI (Type B) Adapter
-### $25.00 + Shipping
+### $35.00 + Shipping
 <button
     class="snipcart-add-item"
     data-item-id="4"
     data-item-name="TSOP48 NAND UNI (Type B) Adapter"
-    data-item-price="25.00"
+    data-item-price="35.00"
     data-item-weight="200"
     data-item-image="https://zeigren.github.io/assets/img/FlashcatAdapters/48_NANDUNI_B.jpg"
     data-item-url="https://zeigren.github.io/FlashcatUSB-xPort-Clip-Adapters/"
@@ -49,12 +49,12 @@ Comes with:
 
 ![TSOP48 NAND 360 (Type B)](/assets/img/FlashcatAdapters/48_NAND360_B.jpg){:class="img-responsive"}
 # TSOP48 NAND 360 (Type B) Adapter
-### $25.00 + Shipping
+### $35.00 + Shipping
 <button
     class="snipcart-add-item"
     data-item-id="5"
     data-item-name="TSOP48 NAND 360 (Type B) Adapter"
-    data-item-price="25.00"
+    data-item-price="35.00"
     data-item-weight="200"
     data-item-image="https://zeigren.github.io/assets/img/FlashcatAdapters/48_NAND360_B.jpg"
     data-item-url="https://zeigren.github.io/FlashcatUSB-xPort-Clip-Adapters/"
@@ -75,12 +75,12 @@ Comes with:
 
 ![TSOP48 NAND E3 (Type B)](/assets/img/FlashcatAdapters/48_NANDE3_B.jpg){:class="img-responsive"}
 # TSOP48 NAND E3 (Type B) Adapter
-### $25.00 + Shipping
+### $35.00 + Shipping
 <button
     class="snipcart-add-item"
     data-item-id="6"
     data-item-name="TSOP48 NAND E3 (Type B) Adapter"
-    data-item-price="25.00"
+    data-item-price="35.00"
     data-item-weight="200"
     data-item-image="https://zeigren.github.io/assets/img/FlashcatAdapters/48_NANDE3_B.jpg"
     data-item-url="https://zeigren.github.io/FlashcatUSB-xPort-Clip-Adapters/"
@@ -101,12 +101,12 @@ Comes with:
 
 ![TSOP56 NOR UNI (Type A)](/assets/img/FlashcatAdapters/56_NORUNI_A.jpg){:class="img-responsive"}
 # TSOP56 NOR UNI (Type A) Adapter
-### $25.00 + Shipping
+### $35.00 + Shipping
 <button
     class="snipcart-add-item"
     data-item-id="7"
     data-item-name="TSOP56 NOR UNI (Type A) Adapter"
-    data-item-price="25.00"
+    data-item-price="35.00"
     data-item-weight="200"
     data-item-image="https://zeigren.github.io/assets/img/FlashcatAdapters/56_NORUNI_A.jpg"
     data-item-url="https://zeigren.github.io/FlashcatUSB-xPort-Clip-Adapters/"
@@ -127,12 +127,12 @@ Comes with:
 
 ![TSOP56 NOR E3 (Type A)](/assets/img/FlashcatAdapters/56_NORE3_A.jpg){:class="img-responsive"}
 # TSOP56 NOR E3 (Type A) Adapter
-### $25.00 + Shipping
+### $35.00 + Shipping
 <button
     class="snipcart-add-item"
     data-item-id="8"
     data-item-name="TSOP56 NOR E3 (Type A) Adapter"
-    data-item-price="25.00"
+    data-item-price="35.00"
     data-item-weight="200"
     data-item-image="https://zeigren.github.io/assets/img/FlashcatAdapters/56_NORE3_A.jpg"
     data-item-url="https://zeigren.github.io/FlashcatUSB-xPort-Clip-Adapters/"
@@ -153,12 +153,12 @@ Comes with:
 
 ![TSOP56 NOR UNI (Type B)](/assets/img/FlashcatAdapters/56_NORUNI_B.jpg){:class="img-responsive"}
 # TSOP56 NOR UNI (Type B) Adapter
-### $25.00 + Shipping
+### $35.00 + Shipping
 <button
     class="snipcart-add-item"
     data-item-id="9"
     data-item-name="TSOP56 NOR UNI (Type B) Adapter"
-    data-item-price="25.00"
+    data-item-price="35.00"
     data-item-weight="200"
     data-item-image="https://zeigren.github.io/assets/img/FlashcatAdapters/56_NORUNI_B.jpg"
     data-item-url="https://zeigren.github.io/FlashcatUSB-xPort-Clip-Adapters/"
@@ -179,12 +179,12 @@ Comes with:
 
 ![TSOP48 NOR UNI (Type A)](/assets/img/FlashcatAdapters/48_NORUNI_A.jpg){:class="img-responsive"}
 # TSOP48 NOR UNI (Type A) Adapter
-### $25.00 + Shipping
+### $35.00 + Shipping
 <button
     class="snipcart-add-item"
     data-item-id="10"
     data-item-name="TSOP48 NOR UNI (Type A) Adapter"
-    data-item-price="25.00"
+    data-item-price="35.00"
     data-item-weight="200"
     data-item-image="https://zeigren.github.io/assets/img/FlashcatAdapters/48_NORUNI_A.jpg"
     data-item-url="https://zeigren.github.io/FlashcatUSB-xPort-Clip-Adapters/"
@@ -205,12 +205,12 @@ Comes with:
 
 ![Power Supply Adapter](/assets/img/FlashcatAdapters/FCXA_PSU.jpg){:class="img-responsive"}
 # Power Supply Adapter
-### $33.00 + Shipping
+### $43.00 + Shipping
 <button
     class="snipcart-add-item"
     data-item-id="11"
     data-item-name="Power Supply Adapter"
-    data-item-price="33.00"
+    data-item-price="43.00"
     data-item-weight="200"
     data-item-image="https://zeigren.github.io/assets/img/FlashcatAdapters/FCXA_PSU.jpg"
     data-item-url="https://zeigren.github.io/FlashcatUSB-xPort-Clip-Adapters/"
