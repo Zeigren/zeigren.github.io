@@ -26,7 +26,7 @@ You can download the software for the FlashcatUSB xPort from [here](http://www.e
 
 [Here](https://youtu.be/0JLvI2vaAI8) is a video I made about the clip adapters as well as a basic tutorial on using them with the FlashcatUSB xPort. I've made a more in depth [tutorial video](https://youtu.be/mcuzO3ZSaBg) and a video going over some [troubleshooting](https://youtu.be/43VDcZQesHo) steps. I also have some basic guides [here]({{ "/FlashcatUSB-xPort-Clip-Adapters-Guide-Index/" | relative_url}}) as well.
 
-You can find the clips themselves on websites like eBay, AliExpress, and various modchip/modding websites. If you're not sure if a clip you found is the right one feel free to e-mail me.
+You can find the clips themselves on websites like eBay, AliExpress, and various modchip/modding websites. I've included links to some websites that sell the clips, however I've never bought clips from them myself.
 
 ---
 # TSOP48 NAND UNI (Type B) Adapter
@@ -41,6 +41,10 @@ Using a jumper the power source can be switched between using power from the Fla
 
 Works with PS3 NANDs.
 
+### Clip Sellers
+[HongKong](https://www.ic2005.com/shop/product.php?productid=165&cat=0&featured=Y)
+[Sweden](https://www.shop01media.com/en/TW_1104-Universal-CLIP-48Pin-TSOP-IC-solderless)
+
 ---
 # TSOP48 NAND 360 (Type B) Adapter
 ![TSOP48 NAND 360 (Type B)](/assets/img/FlashcatAdapters/48_NAND360_B.jpg){:class="img-responsive"}
@@ -53,6 +57,11 @@ It uses buffers in order to supply a "signal boost" on the same signals that I "
 Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup. The capacitor footprint is for a capacitor with 2mm lead spacing, something like [this](https://www.digikey.com/product-detail/en/wurth-electronics-inc/860010372006/732-8598-1-ND/5728555) should work.
 
 Works with PS3 NANDs.
+
+### Clip Sellers
+[HongKong](https://www.ic2005.com/shop/product.php?productid=129&cat=0&featured=Y)
+[Sweden](https://www.shop01media.com/en/360-Clip-NAND-IC-adapter-%2048pin)
+[France](http://www.arcalide.com/clip-nand-48-pin-p-515.html)
 
 ---
 # TSOP48 NAND E3 (Type B) Adapter
@@ -78,6 +87,10 @@ Using a jumper the power source can be switched between using power from the Fla
 
 Works with PS3 NORs.
 
+### Clip Sellers
+[HongKong](https://www.ic2005.com/shop/product.php?productid=167&cat=0&featured=Y)
+[Sweden](https://www.shop01media.com/index.php?route=product/product&search=clip&product_id=100)
+
 ---
 # TSOP56 NOR E3 (Type A) Adapter
 ![TSOP56 NOR E3 (Type A)](/assets/img/FlashcatAdapters/56_NORE3_A.jpg){:class="img-responsive"}
@@ -97,6 +110,10 @@ Works with PS3 NORs.
 An adapter for the FlashcatUSB xPort to read/write TSOP56 NOR flash memory using the TSOP56 UNI Clip. It works with different TSOP56 NOR flashes than the 'Type A' adapters.
 
 Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup. The capacitor footprint is for a capacitor with 2mm lead spacing, something like [this](https://www.digikey.com/product-detail/en/wurth-electronics-inc/860010372006/732-8598-1-ND/5728555) should work.
+
+### Clip Sellers
+[HongKong](https://www.ic2005.com/shop/product.php?productid=167&cat=0&featured=Y)
+[Sweden](https://www.shop01media.com/index.php?route=product/product&search=clip&product_id=100)
 
 ---
 # TSOP48 NOR UNI (Type A) Adapter
@@ -121,6 +138,10 @@ For 29 Series the pins will look like this:
 [-XX][-XX][-XX]
 
 Using a jumper the power source can be switched between using power from the FlashcatUSB xPort to using power from an external power source. At the end of the board you can put pins which you can use to supply power from an external power source, there is also a footprint for a capacitor if you need it for your setup. The capacitor footprint is for a capacitor with 2mm lead spacing, something like [this](https://www.digikey.com/product-detail/en/wurth-electronics-inc/860010372006/732-8598-1-ND/5728555) should work.
+
+### Clip Sellers
+[HongKong](https://www.ic2005.com/shop/product.php?productid=165&cat=0&featured=Y)
+[Sweden](https://www.shop01media.com/en/TW_1104-Universal-CLIP-48Pin-TSOP-IC-solderless)
 
 ---
 # Power Supply Adapter
