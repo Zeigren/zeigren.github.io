@@ -15,10 +15,6 @@ comments: false
 ## More info on all the [FlashcatUSB Clip Adapters]({{ "/FlashcatUSB-xPort-Clip-Adapters-Info/" | relative_url}})
 ## FlashcatUSB xPort can be purchased from [EmbeddedComputers](http://www.embeddedcomputers.net/products/FlashcatUSB_xPort/)
 ### Payments go through PayPal, feel free to check my [eBay Seller Feedback](https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=zeigren&ftab=FeedbackAsSeller&searchInterval=30)
-### [Shipping Info]({{ "/Shipping-Info/" | relative_url}})
-### Each board is made to order so it may take me week or so to ship them, depending on how long it takes me to get the parts.
-### You can add multiple boards to the cart before placing your order.
-### <a href="#" class="snipcart-checkout">Click To Show Cart</a>
 
 ---
 
