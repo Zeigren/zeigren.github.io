@@ -8,6 +8,7 @@ tag:
 - PS3 Downgrade
 - NORwegian Teensy Clip Edition
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/downgrading-with-the-clip-edition
 ---
 # Downgrading With The Clip Edition
 

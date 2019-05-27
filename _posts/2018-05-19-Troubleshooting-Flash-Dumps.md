@@ -9,6 +9,7 @@ tag:
 - xPort
 - Resources
 comments: false
+redirect_to: https://docs.zeigren.com/books/flashcatusb-clip-adapters/page/troubleshooting
 ---
 # Some Tips
 

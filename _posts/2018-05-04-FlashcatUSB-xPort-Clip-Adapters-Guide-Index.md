@@ -9,6 +9,7 @@ tag:
 - xPort
 - Resources
 comments: false
+redirect_to: https://docs.zeigren.com/books/flashcatusb-clip-adapters
 ---
 # [Using the FlashcatUSB xPort Clip Adapters]({{ "/Using-FlashcatUSB-xPort-Clip-Adapters/" | relative_url}})
 

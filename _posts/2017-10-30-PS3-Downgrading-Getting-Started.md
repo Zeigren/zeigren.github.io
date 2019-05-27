@@ -7,6 +7,7 @@ tag:
 - Guide
 - PS3 Downgrade
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/getting-started
 ---
 # Getting Started
 

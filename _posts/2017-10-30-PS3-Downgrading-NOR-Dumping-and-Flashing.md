@@ -11,6 +11,7 @@ tag:
 - Flash
 - Patch
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/nor-dumping-and-flashing
 ---
 ## Using WAY-launchers To Dump NOR
 

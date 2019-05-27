@@ -9,6 +9,7 @@ tag:
 - Setting Up
 - FlashcatUSB Clip Adapters
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/setting-up-the-flashcatusb-clip-adapters
 ---
 
 I have a [tutorial video](https://youtu.be/mcuzO3ZSaBg) and a video going over some [troubleshooting](https://youtu.be/43VDcZQesHo) steps when using the FlashcatUSB xPort, I recommend watching both before doing anything. Those are both for using it in general, but it'll give you an idea of what to do.

@@ -9,6 +9,7 @@ tag:
 - xPort
 - Resources
 comments: false
+redirect_to: https://docs.zeigren.com/books/flashcatusb-clip-adapters/page/troubleshooting
 ---
 
 [Here](https://youtu.be/0JLvI2vaAI8) is a video I made about the clip adapters as well as a basic tutorial on using them with the FlashcatUSB xPort. I've made a more in depth [tutorial video](https://youtu.be/mcuzO3ZSaBg) and a video going over some [troubleshooting](https://youtu.be/43VDcZQesHo) steps.

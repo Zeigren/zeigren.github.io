@@ -8,6 +8,7 @@ tag:
 - PS3 Downgrade
 - FlashcatUSB Clip Adapters
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/downgrading-with-the-flashcatusb-clip-adapters
 ---
 # Downgrading With The Clip Adapters
 

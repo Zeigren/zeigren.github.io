@@ -8,6 +8,7 @@ tag:
 - PS3 Downgrade
 - Basics
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/ps3-downgrading-basics
 ---
 # PS3 Downgrade Guide Page 1
 

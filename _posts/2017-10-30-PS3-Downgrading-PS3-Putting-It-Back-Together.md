@@ -7,6 +7,7 @@ tag:
 - Guide
 - PS3 Downgrade
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/putting-it-back-together
 ---
 
 ## Putting PS3 Back Together

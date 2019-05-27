@@ -7,6 +7,7 @@ tag:
 - NORwegian Teensy Socket Edition 
 - PS3 Downgrade
 comments: false
+redirect_to: https://docs.zeigren.com/books/norwegian-teensy/page/socket-edition
 ---
 
 ![NORwegianTeensySocketEdition](/assets/img/NORwegianTeensySocketGlamour.jpg){:class="img-responsive"}

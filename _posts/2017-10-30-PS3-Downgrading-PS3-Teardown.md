@@ -8,6 +8,7 @@ tag:
 - PS3 Downgrade
 - PS3 Teardown
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/ps3-teardown
 ---
 # Take Apart PS3
 

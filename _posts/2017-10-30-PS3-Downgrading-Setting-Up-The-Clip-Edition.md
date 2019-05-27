@@ -9,6 +9,7 @@ tag:
 - Setting Up
 - NORwegian Teensy Clip Edition
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/setting-up-the-clip-edition
 ---
 # Hardware
 ## Clip Edition

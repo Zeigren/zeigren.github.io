@@ -9,6 +9,7 @@ tag:
 - More Info
 - Resources
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/more-info
 ---
 # Thanks (in no particular order)
 ## judges, Swizzy, baileyscream, littlebalup, BwE, marcan, 3absiso, xorloser, NDT, RPS, Sandungas, Euss and many many others who have made all of this possible.

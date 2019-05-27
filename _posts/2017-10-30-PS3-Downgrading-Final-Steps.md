@@ -8,6 +8,7 @@ tag:
 - Guide
 - Final
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/final-steps
 ---
 # Finishing The Downgrade
 

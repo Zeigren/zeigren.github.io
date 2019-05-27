@@ -8,6 +8,7 @@ tag:
 - PS3 Downgrade
 - NORwegian Teensy Socket Edition
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/downgrading-with-the-socket-edition
 ---
 # Using the NORwegian Teensy Socket Edition
 

@@ -7,6 +7,7 @@ tag:
 - NORwegian Teensy Clip Edition
 - PS3 Downgrade
 comments: false
+redirect_to: https://docs.zeigren.com/books/norwegian-teensy/page/clip-edition
 ---
 ![NTCEGLAMOUR](/assets/img/NTCEGLAMOUR.jpg){:class="img-responsive"}
 ![NTCETOP](/assets/img/NTCETOP.jpg){:class="img-responsive"}

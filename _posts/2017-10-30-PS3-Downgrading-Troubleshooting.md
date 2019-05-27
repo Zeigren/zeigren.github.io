@@ -8,6 +8,7 @@ tag:
 - PS3 Downgrade
 - Troubleshooting
 comments: false
+redirect_to: https://docs.zeigren.com/books/ps3-downgrading/page/troubleshooting
 ---
 # Troubleshooting the NORwegian Teensy Clip Edition
 ## Poor Clip Contact

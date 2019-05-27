@@ -8,6 +8,7 @@ tag:
 - xPort
 - Adapters
 comments: false
+redirect_to: https://shop.zeigren.com/flashcatusb-clip-adapters.html
 ---
 
 

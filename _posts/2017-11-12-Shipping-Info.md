@@ -6,6 +6,7 @@ info: true
 tag:
 - More Info
 comments: false
+redirect_to: https://zeigren.com/
 ---
 
 # Currently I Ship To These Countries

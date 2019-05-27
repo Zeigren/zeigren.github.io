@@ -7,6 +7,7 @@ tag:
 - OXC
 - Open Xbox Community
 comments: false
+redirect_to: https://docs.zeigren.com/books/oxc
 ---
 
 # OXControllr v2 & OXControllr S
