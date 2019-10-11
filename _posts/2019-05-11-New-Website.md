@@ -8,8 +8,5 @@ tag:
 - xPort
 - News
 comments: true
+redirect_to: https://zeigren.com/
 ---
-
-I have a new [website](https://zeigren.com/) which will replace this one. This website will remain up for the time being but all updates will only be on my new website.
-
-05/11/2019
