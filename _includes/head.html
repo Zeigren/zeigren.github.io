@@ -1,6 +1,7 @@
     <meta charset="UTF-8">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+    <meta name="robots" content="noindex">
     <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
@@ -57,11 +58,6 @@
     <style type="text/css">.feature {background-image:url({{ feature }});}</style>
     {% endif %}
 <!-- snipcart -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-
-<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="M2ZiYjEwNmMtNDNlMi00YzY3LWExZTgtMTgwOTRiYTAwZWY3NjM2NDQ5NDg1MTMzMjQzODky"></script>
-
-<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
 <!-- Google analytics -->
 <!-- {% if site.google_analytics and jekyll.environment == 'production' %} -->
 <!-- {% include analytics.html %} -->
